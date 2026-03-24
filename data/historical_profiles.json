@@ -1,0 +1,5014 @@
+{
+  "matches_processed": 1800,
+  "team_profiles": {
+    "Australia": {
+      "rating": 1737.44,
+      "matches": 152,
+      "wins": 104,
+      "recent_win_pct": 1.0
+    },
+    "Sri Lanka": {
+      "rating": 1548.05,
+      "matches": 136,
+      "wins": 47,
+      "recent_win_pct": 0.5
+    },
+    "Ireland": {
+      "rating": 1477.69,
+      "matches": 129,
+      "wins": 57,
+      "recent_win_pct": 0.25
+    },
+    "Hong Kong": {
+      "rating": 1528.85,
+      "matches": 59,
+      "wins": 27,
+      "recent_win_pct": 0.75
+    },
+    "Zimbabwe": {
+      "rating": 1595.27,
+      "matches": 86,
+      "wins": 46,
+      "recent_win_pct": 0.6667
+    },
+    "India": {
+      "rating": 1665.71,
+      "matches": 206,
+      "wins": 132,
+      "recent_win_pct": 0.4167
+    },
+    "New Zealand": {
+      "rating": 1643.69,
+      "matches": 158,
+      "wins": 91,
+      "recent_win_pct": 0.6667
+    },
+    "Bangladesh": {
+      "rating": 1525.34,
+      "matches": 131,
+      "wins": 61,
+      "recent_win_pct": 0.4167
+    },
+    "South Africa": {
+      "rating": 1590.05,
+      "matches": 134,
+      "wins": 72,
+      "recent_win_pct": 0.5833
+    },
+    "England": {
+      "rating": 1664.26,
+      "matches": 164,
+      "wins": 106,
+      "recent_win_pct": 0.6667
+    },
+    "West Indies": {
+      "rating": 1455.66,
+      "matches": 145,
+      "wins": 49,
+      "recent_win_pct": 0.1667
+    },
+    "Pakistan": {
+      "rating": 1582.37,
+      "matches": 167,
+      "wins": 92,
+      "recent_win_pct": 0.3333
+    },
+    "Scotland": {
+      "rating": 1488.91,
+      "matches": 76,
+      "wins": 40,
+      "recent_win_pct": 0.25
+    },
+    "Netherlands": {
+      "rating": 1506.39,
+      "matches": 79,
+      "wins": 36,
+      "recent_win_pct": 0.5833
+    },
+    "Oman": {
+      "rating": 1460.84,
+      "matches": 48,
+      "wins": 20,
+      "recent_win_pct": 0.4167
+    },
+    "United Arab Emirates": {
+      "rating": 1543.36,
+      "matches": 81,
+      "wins": 50,
+      "recent_win_pct": 0.25
+    },
+    "Papua New Guinea": {
+      "rating": 1507.76,
+      "matches": 50,
+      "wins": 25,
+      "recent_win_pct": 0.5
+    },
+    "ICC World XI": {
+      "rating": 1483.19,
+      "matches": 4,
+      "wins": 1,
+      "recent_win_pct": 0.25
+    },
+    "Thailand": {
+      "rating": 1480.57,
+      "matches": 57,
+      "wins": 26,
+      "recent_win_pct": 0.5
+    },
+    "Uganda": {
+      "rating": 1632.61,
+      "matches": 75,
+      "wins": 46,
+      "recent_win_pct": 0.9167
+    },
+    "Malaysia": {
+      "rating": 1526.0,
+      "matches": 79,
+      "wins": 39,
+      "recent_win_pct": 0.5
+    },
+    "Botswana": {
+      "rating": 1431.81,
+      "matches": 37,
+      "wins": 11,
+      "recent_win_pct": 0.3333
+    },
+    "Lesotho": {
+      "rating": 1420.48,
+      "matches": 12,
+      "wins": 1,
+      "recent_win_pct": 0.0833
+    },
+    "Malawi": {
+      "rating": 1503.07,
+      "matches": 10,
+      "wins": 5,
+      "recent_win_pct": 0.5
+    },
+    "Namibia": {
+      "rating": 1564.58,
+      "matches": 75,
+      "wins": 49,
+      "recent_win_pct": 0.4167
+    },
+    "Sierra Leone": {
+      "rating": 1471.26,
+      "matches": 25,
+      "wins": 11,
+      "recent_win_pct": 0.5
+    },
+    "Mozambique": {
+      "rating": 1438.48,
+      "matches": 23,
+      "wins": 7,
+      "recent_win_pct": 0.4167
+    },
+    "Nepal": {
+      "rating": 1615.74,
+      "matches": 67,
+      "wins": 47,
+      "recent_win_pct": 0.6667
+    },
+    "China": {
+      "rating": 1505.79,
+      "matches": 9,
+      "wins": 5,
+      "recent_win_pct": 0.5556
+    },
+    "Kuwait": {
+      "rating": 1453.16,
+      "matches": 36,
+      "wins": 13,
+      "recent_win_pct": 0.5
+    },
+    "Philippines": {
+      "rating": 1452.5,
+      "matches": 8,
+      "wins": 1,
+      "recent_win_pct": 0.125
+    },
+    "Vanuatu": {
+      "rating": 1507.0,
+      "matches": 17,
+      "wins": 9,
+      "recent_win_pct": 0.6667
+    },
+    "United States of America": {
+      "rating": 1473.62,
+      "matches": 32,
+      "wins": 14,
+      "recent_win_pct": 0.25
+    },
+    "Germany": {
+      "rating": 1528.68,
+      "matches": 55,
+      "wins": 33,
+      "recent_win_pct": 0.5833
+    },
+    "Italy": {
+      "rating": 1521.19,
+      "matches": 18,
+      "wins": 10,
+      "recent_win_pct": 0.5833
+    },
+    "Nigeria": {
+      "rating": 1479.25,
+      "matches": 45,
+      "wins": 18,
+      "recent_win_pct": 0.6667
+    },
+    "Tanzania": {
+      "rating": 1617.96,
+      "matches": 45,
+      "wins": 34,
+      "recent_win_pct": 0.5833
+    },
+    "Rwanda": {
+      "rating": 1466.44,
+      "matches": 42,
+      "wins": 18,
+      "recent_win_pct": 0.25
+    },
+    "Kenya": {
+      "rating": 1545.58,
+      "matches": 48,
+      "wins": 27,
+      "recent_win_pct": 0.6667
+    },
+    "Indonesia": {
+      "rating": 1524.47,
+      "matches": 9,
+      "wins": 6,
+      "recent_win_pct": 0.6667
+    },
+    "Japan": {
+      "rating": 1481.09,
+      "matches": 14,
+      "wins": 6,
+      "recent_win_pct": 0.4167
+    },
+    "Fiji": {
+      "rating": 1483.65,
+      "matches": 8,
+      "wins": 3,
+      "recent_win_pct": 0.375
+    },
+    "Samoa": {
+      "rating": 1455.31,
+      "matches": 7,
+      "wins": 1,
+      "recent_win_pct": 0.1429
+    },
+    "Canada": {
+      "rating": 1570.68,
+      "matches": 29,
+      "wins": 20,
+      "recent_win_pct": 0.75
+    },
+    "Ghana": {
+      "rating": 1461.32,
+      "matches": 21,
+      "wins": 8,
+      "recent_win_pct": 0.4167
+    },
+    "Guernsey": {
+      "rating": 1518.84,
+      "matches": 16,
+      "wins": 9,
+      "recent_win_pct": 0.5833
+    },
+    "Denmark": {
+      "rating": 1483.09,
+      "matches": 20,
+      "wins": 8,
+      "recent_win_pct": 0.4167
+    },
+    "Norway": {
+      "rating": 1444.92,
+      "matches": 19,
+      "wins": 5,
+      "recent_win_pct": 0.3333
+    },
+    "Jersey": {
+      "rating": 1555.68,
+      "matches": 22,
+      "wins": 15,
+      "recent_win_pct": 0.75
+    },
+    "Maldives": {
+      "rating": 1415.21,
+      "matches": 17,
+      "wins": 3,
+      "recent_win_pct": 0.0833
+    },
+    "Mali": {
+      "rating": 1453.44,
+      "matches": 5,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Singapore": {
+      "rating": 1410.07,
+      "matches": 47,
+      "wins": 16,
+      "recent_win_pct": 0.3333
+    },
+    "Qatar": {
+      "rating": 1462.87,
+      "matches": 28,
+      "wins": 11,
+      "recent_win_pct": 0.4167
+    },
+    "South Korea": {
+      "rating": 1457.2,
+      "matches": 5,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Bermuda": {
+      "rating": 1537.27,
+      "matches": 19,
+      "wins": 12,
+      "recent_win_pct": 0.6667
+    },
+    "Cayman Islands": {
+      "rating": 1469.92,
+      "matches": 10,
+      "wins": 3,
+      "recent_win_pct": 0.3
+    },
+    "Spain": {
+      "rating": 1592.95,
+      "matches": 27,
+      "wins": 20,
+      "recent_win_pct": 0.6667
+    },
+    "Portugal": {
+      "rating": 1502.51,
+      "matches": 8,
+      "wins": 4,
+      "recent_win_pct": 0.5
+    },
+    "Gibraltar": {
+      "rating": 1393.44,
+      "matches": 19,
+      "wins": 2,
+      "recent_win_pct": 0.1667
+    },
+    "Bhutan": {
+      "rating": 1463.95,
+      "matches": 17,
+      "wins": 6,
+      "recent_win_pct": 0.4167
+    },
+    "Saudi Arabia": {
+      "rating": 1432.11,
+      "matches": 15,
+      "wins": 3,
+      "recent_win_pct": 0.1667
+    },
+    "Bahrain": {
+      "rating": 1453.59,
+      "matches": 33,
+      "wins": 14,
+      "recent_win_pct": 0.5
+    },
+    "Iran": {
+      "rating": 1489.55,
+      "matches": 1,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Austria": {
+      "rating": 1544.84,
+      "matches": 20,
+      "wins": 12,
+      "recent_win_pct": 0.8333
+    },
+    "Belgium": {
+      "rating": 1551.87,
+      "matches": 13,
+      "wins": 10,
+      "recent_win_pct": 0.75
+    },
+    "Luxembourg": {
+      "rating": 1476.78,
+      "matches": 17,
+      "wins": 7,
+      "recent_win_pct": 0.4167
+    },
+    "Czech Republic": {
+      "rating": 1516.07,
+      "matches": 21,
+      "wins": 11,
+      "recent_win_pct": 0.75
+    },
+    "Isle of Man": {
+      "rating": 1515.97,
+      "matches": 14,
+      "wins": 8,
+      "recent_win_pct": 0.5833
+    },
+    "Bulgaria": {
+      "rating": 1447.36,
+      "matches": 25,
+      "wins": 9,
+      "recent_win_pct": 0.5833
+    },
+    "Romania": {
+      "rating": 1559.32,
+      "matches": 22,
+      "wins": 16,
+      "recent_win_pct": 0.5833
+    },
+    "Greece": {
+      "rating": 1472.67,
+      "matches": 5,
+      "wins": 1,
+      "recent_win_pct": 0.2
+    },
+    "Serbia": {
+      "rating": 1447.86,
+      "matches": 15,
+      "wins": 4,
+      "recent_win_pct": 0.3333
+    },
+    "Malta": {
+      "rating": 1543.87,
+      "matches": 22,
+      "wins": 14,
+      "recent_win_pct": 0.75
+    },
+    "France": {
+      "rating": 1442.29,
+      "matches": 15,
+      "wins": 3,
+      "recent_win_pct": 0.25
+    },
+    "Sweden": {
+      "rating": 1480.89,
+      "matches": 17,
+      "wins": 7,
+      "recent_win_pct": 0.4167
+    },
+    "Finland": {
+      "rating": 1512.19,
+      "matches": 12,
+      "wins": 7,
+      "recent_win_pct": 0.5833
+    },
+    "Eswatini": {
+      "rating": 1429.96,
+      "matches": 10,
+      "wins": 1,
+      "recent_win_pct": 0.1
+    },
+    "Cameroon": {
+      "rating": 1407.48,
+      "matches": 11,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Hungary": {
+      "rating": 1468.94,
+      "matches": 13,
+      "wins": 5,
+      "recent_win_pct": 0.3333
+    },
+    "Estonia": {
+      "rating": 1433.26,
+      "matches": 8,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Cyprus": {
+      "rating": 1498.02,
+      "matches": 10,
+      "wins": 5,
+      "recent_win_pct": 0.5
+    },
+    "Switzerland": {
+      "rating": 1498.77,
+      "matches": 9,
+      "wins": 5,
+      "recent_win_pct": 0.5556
+    },
+    "Argentina": {
+      "rating": 1443.09,
+      "matches": 11,
+      "wins": 2,
+      "recent_win_pct": 0.1818
+    },
+    "Brazil": {
+      "rating": 1489.32,
+      "matches": 5,
+      "wins": 2,
+      "recent_win_pct": 0.4
+    },
+    "Seychelles": {
+      "rating": 1473.19,
+      "matches": 7,
+      "wins": 2,
+      "recent_win_pct": 0.2857
+    },
+    "Swaziland": {
+      "rating": 1456.47,
+      "matches": 5,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Belize": {
+      "rating": 1473.17,
+      "matches": 5,
+      "wins": 1,
+      "recent_win_pct": 0.2
+    },
+    "Bahamas": {
+      "rating": 1462.98,
+      "matches": 8,
+      "wins": 2,
+      "recent_win_pct": 0.25
+    },
+    "Panama": {
+      "rating": 1471.95,
+      "matches": 7,
+      "wins": 2,
+      "recent_win_pct": 0.2857
+    },
+    "Barbados": {
+      "rating": 1500.0,
+      "matches": 3,
+      "wins": 1,
+      "recent_win_pct": 0.3333
+    },
+    "Israel": {
+      "rating": 1493.24,
+      "matches": 3,
+      "wins": 1,
+      "recent_win_pct": 0.3333
+    },
+    "Turkey": {
+      "rating": 1467.09,
+      "matches": 4,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Croatia": {
+      "rating": 1490.1,
+      "matches": 5,
+      "wins": 2,
+      "recent_win_pct": 0.4
+    },
+    "Slovenia": {
+      "rating": 1464.52,
+      "matches": 4,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    },
+    "Cook Islands": {
+      "rating": 1506.69,
+      "matches": 5,
+      "wins": 3,
+      "recent_win_pct": 0.6
+    },
+    "St Helena": {
+      "rating": 1488.92,
+      "matches": 3,
+      "wins": 1,
+      "recent_win_pct": 0.3333
+    },
+    "Gambia": {
+      "rating": 1463.15,
+      "matches": 6,
+      "wins": 1,
+      "recent_win_pct": 0.1667
+    },
+    "Cambodia": {
+      "rating": 1453.97,
+      "matches": 4,
+      "wins": 0,
+      "recent_win_pct": 0.0
+    }
+  },
+  "h2h": {
+    "Australia||Sri Lanka": {
+      "Australia": 17,
+      "Sri Lanka": 4,
+      "matches": 21
+    },
+    "Hong Kong||Ireland": {
+      "Ireland": 2,
+      "Hong Kong": 1,
+      "matches": 3
+    },
+    "India||Zimbabwe": {
+      "Zimbabwe": 1,
+      "India": 3,
+      "matches": 4
+    },
+    "Bangladesh||New Zealand": {
+      "New Zealand": 15,
+      "Bangladesh": 3,
+      "matches": 18
+    },
+    "New Zealand||South Africa": {
+      "New Zealand": 6,
+      "South Africa": 3,
+      "matches": 9
+    },
+    "England||South Africa": {
+      "England": 14,
+      "South Africa": 8,
+      "matches": 22
+    },
+    "England||West Indies": {
+      "West Indies": 5,
+      "England": 19,
+      "matches": 24
+    },
+    "England||India": {
+      "India": 14,
+      "England": 17,
+      "matches": 31
+    },
+    "India||West Indies": {
+      "India": 23,
+      "West Indies": 4,
+      "matches": 27
+    },
+    "Australia||New Zealand": {
+      "Australia": 17,
+      "New Zealand": 8,
+      "matches": 25
+    },
+    "Pakistan||West Indies": {
+      "Pakistan": 15,
+      "West Indies": 6,
+      "matches": 21
+    },
+    "New Zealand||Pakistan": {
+      "New Zealand": 11,
+      "Pakistan": 12,
+      "matches": 23
+    },
+    "India||Pakistan": {
+      "India": 7,
+      "Pakistan": 3,
+      "matches": 10
+    },
+    "Australia||England": {
+      "England": 12,
+      "Australia": 12,
+      "matches": 24
+    },
+    "England||New Zealand": {
+      "New Zealand": 8,
+      "England": 15,
+      "matches": 23
+    },
+    "Hong Kong||Scotland": {
+      "Hong Kong": 0,
+      "Scotland": 1,
+      "matches": 1
+    },
+    "Netherlands||Oman": {
+      "Netherlands": 2,
+      "Oman": 1,
+      "matches": 3
+    },
+    "Hong Kong||Oman": {
+      "Hong Kong": 0,
+      "Oman": 3,
+      "matches": 3
+    },
+    "Netherlands||Scotland": {
+      "Netherlands": 3,
+      "Scotland": 9,
+      "matches": 12
+    },
+    "Ireland||United Arab Emirates": {
+      "United Arab Emirates": 6,
+      "Ireland": 2,
+      "matches": 8
+    },
+    "Hong Kong||Netherlands": {
+      "Hong Kong": 1,
+      "Netherlands": 2,
+      "matches": 3
+    },
+    "Oman||Scotland": {
+      "Oman": 0,
+      "Scotland": 4,
+      "matches": 4
+    },
+    "Ireland||Scotland": {
+      "Ireland": 12,
+      "Scotland": 4,
+      "matches": 16
+    },
+    "Bangladesh||South Africa": {
+      "South Africa": 8,
+      "Bangladesh": 0,
+      "matches": 8
+    },
+    "Bangladesh||Sri Lanka": {
+      "Sri Lanka": 10,
+      "Bangladesh": 3,
+      "matches": 13
+    },
+    "Papua New Guinea||United Arab Emirates": {
+      "United Arab Emirates": 3,
+      "Papua New Guinea": 2,
+      "matches": 5
+    },
+    "India||Sri Lanka": {
+      "Sri Lanka": 6,
+      "India": 22,
+      "matches": 28
+    },
+    "New Zealand||West Indies": {
+      "New Zealand": 13,
+      "West Indies": 2,
+      "matches": 15
+    },
+    "ICC World XI||Pakistan": {
+      "Pakistan": 2,
+      "ICC World XI": 1,
+      "matches": 3
+    },
+    "Australia||India": {
+      "Australia": 20,
+      "India": 9,
+      "matches": 29
+    },
+    "India||New Zealand": {
+      "India": 14,
+      "New Zealand": 9,
+      "matches": 23
+    },
+    "Pakistan||Sri Lanka": {
+      "Sri Lanka": 7,
+      "Pakistan": 9,
+      "matches": 16
+    },
+    "India||South Africa": {
+      "India": 15,
+      "South Africa": 11,
+      "matches": 26
+    },
+    "Sri Lanka||West Indies": {
+      "West Indies": 6,
+      "Sri Lanka": 2,
+      "matches": 8
+    },
+    "Pakistan||Scotland": {
+      "Pakistan": 3,
+      "Scotland": 0,
+      "matches": 3
+    },
+    "Bangladesh||India": {
+      "Bangladesh": 3,
+      "India": 8,
+      "matches": 11
+    },
+    "England||Sri Lanka": {
+      "England": 11,
+      "Sri Lanka": 2,
+      "matches": 13
+    },
+    "India||Ireland": {
+      "India": 6,
+      "Ireland": 0,
+      "matches": 6
+    },
+    "ICC World XI||West Indies": {
+      "West Indies": 1,
+      "ICC World XI": 0,
+      "matches": 1
+    },
+    "Ireland||Netherlands": {
+      "Netherlands": 5,
+      "Ireland": 8,
+      "matches": 13
+    },
+    "South Africa||Sri Lanka": {
+      "South Africa": 10,
+      "Sri Lanka": 2,
+      "matches": 12
+    },
+    "Pakistan||Zimbabwe": {
+      "Pakistan": 7,
+      "Zimbabwe": 2,
+      "matches": 9
+    },
+    "Australia||Pakistan": {
+      "Pakistan": 5,
+      "Australia": 12,
+      "matches": 17
+    },
+    "Australia||Zimbabwe": {
+      "Australia": 2,
+      "Zimbabwe": 0,
+      "matches": 2
+    },
+    "South Africa||Zimbabwe": {
+      "South Africa": 2,
+      "Zimbabwe": 0,
+      "matches": 2
+    },
+    "Pakistan||South Africa": {
+      "South Africa": 10,
+      "Pakistan": 10,
+      "matches": 20
+    },
+    "Australia||South Africa": {
+      "South Africa": 2,
+      "Australia": 6,
+      "matches": 8
+    },
+    "Ireland||New Zealand": {
+      "Ireland": 0,
+      "New Zealand": 6,
+      "matches": 6
+    },
+    "Bangladesh||Ireland": {
+      "Ireland": 2,
+      "Bangladesh": 8,
+      "matches": 10
+    },
+    "Bangladesh||West Indies": {
+      "Bangladesh": 3,
+      "West Indies": 7,
+      "matches": 10
+    },
+    "Ireland||Thailand": {
+      "Thailand": 3,
+      "Ireland": 1,
+      "matches": 4
+    },
+    "Scotland||Uganda": {
+      "Uganda": 0,
+      "Scotland": 1,
+      "matches": 1
+    },
+    "Netherlands||United Arab Emirates": {
+      "Netherlands": 2,
+      "United Arab Emirates": 3,
+      "matches": 5
+    },
+    "Bangladesh||Papua New Guinea": {
+      "Papua New Guinea": 0,
+      "Bangladesh": 3,
+      "matches": 3
+    },
+    "Bangladesh||Netherlands": {
+      "Netherlands": 0,
+      "Bangladesh": 2,
+      "matches": 2
+    },
+    "Scotland||Thailand": {
+      "Scotland": 2,
+      "Thailand": 0,
+      "matches": 2
+    },
+    "Ireland||Uganda": {
+      "Uganda": 0,
+      "Ireland": 1,
+      "matches": 1
+    },
+    "Bangladesh||United Arab Emirates": {
+      "United Arab Emirates": 0,
+      "Bangladesh": 3,
+      "matches": 3
+    },
+    "Netherlands||Papua New Guinea": {
+      "Papua New Guinea": 2,
+      "Netherlands": 2,
+      "matches": 4
+    },
+    "Ireland||Papua New Guinea": {
+      "Ireland": 2,
+      "Papua New Guinea": 0,
+      "matches": 2
+    },
+    "Netherlands||Uganda": {
+      "Netherlands": 1,
+      "Uganda": 1,
+      "matches": 2
+    },
+    "Bangladesh||Scotland": {
+      "Bangladesh": 4,
+      "Scotland": 1,
+      "matches": 5
+    },
+    "Thailand||United Arab Emirates": {
+      "United Arab Emirates": 0,
+      "Thailand": 4,
+      "matches": 4
+    },
+    "Papua New Guinea||Scotland": {
+      "Papua New Guinea": 2,
+      "Scotland": 4,
+      "matches": 6
+    },
+    "Thailand||Uganda": {
+      "Thailand": 1,
+      "Uganda": 0,
+      "matches": 1
+    },
+    "India||Malaysia": {
+      "India": 2,
+      "Malaysia": 0,
+      "matches": 2
+    },
+    "Pakistan||Thailand": {
+      "Thailand": 1,
+      "Pakistan": 1,
+      "matches": 2
+    },
+    "Bangladesh||Pakistan": {
+      "Pakistan": 10,
+      "Bangladesh": 1,
+      "matches": 11
+    },
+    "India||Thailand": {
+      "India": 3,
+      "Thailand": 0,
+      "matches": 3
+    },
+    "Malaysia||Sri Lanka": {
+      "Sri Lanka": 3,
+      "Malaysia": 0,
+      "matches": 3
+    },
+    "Malaysia||Thailand": {
+      "Malaysia": 5,
+      "Thailand": 3,
+      "matches": 8
+    },
+    "Bangladesh||Thailand": {
+      "Thailand": 0,
+      "Bangladesh": 4,
+      "matches": 4
+    },
+    "Malaysia||Pakistan": {
+      "Pakistan": 2,
+      "Malaysia": 0,
+      "matches": 2
+    },
+    "Sri Lanka||Thailand": {
+      "Sri Lanka": 1,
+      "Thailand": 1,
+      "matches": 2
+    },
+    "Bangladesh||Malaysia": {
+      "Bangladesh": 3,
+      "Malaysia": 0,
+      "matches": 3
+    },
+    "Australia||Ireland": {
+      "Ireland": 0,
+      "Australia": 4,
+      "matches": 4
+    },
+    "Bangladesh||England": {
+      "Bangladesh": 3,
+      "England": 2,
+      "matches": 5
+    },
+    "Ireland||Pakistan": {
+      "Pakistan": 4,
+      "Ireland": 2,
+      "matches": 6
+    },
+    "South Africa||West Indies": {
+      "West Indies": 7,
+      "South Africa": 10,
+      "matches": 17
+    },
+    "Australia||West Indies": {
+      "Australia": 8,
+      "West Indies": 4,
+      "matches": 12
+    },
+    "England||Pakistan": {
+      "England": 14,
+      "Pakistan": 5,
+      "matches": 19
+    },
+    "New Zealand||Sri Lanka": {
+      "New Zealand": 9,
+      "Sri Lanka": 1,
+      "matches": 10
+    },
+    "Botswana||Lesotho": {
+      "Botswana": 2,
+      "Lesotho": 0,
+      "matches": 2
+    },
+    "Malawi||Namibia": {
+      "Malawi": 0,
+      "Namibia": 1,
+      "matches": 1
+    },
+    "Namibia||Sierra Leone": {
+      "Sierra Leone": 0,
+      "Namibia": 3,
+      "matches": 3
+    },
+    "Lesotho||Mozambique": {
+      "Mozambique": 1,
+      "Lesotho": 0,
+      "matches": 1
+    },
+    "Botswana||Mozambique": {
+      "Mozambique": 0,
+      "Botswana": 4,
+      "matches": 4
+    },
+    "Botswana||Sierra Leone": {
+      "Botswana": 1,
+      "Sierra Leone": 1,
+      "matches": 2
+    },
+    "Mozambique||Namibia": {
+      "Mozambique": 0,
+      "Namibia": 1,
+      "matches": 1
+    },
+    "Lesotho||Namibia": {
+      "Namibia": 1,
+      "Lesotho": 0,
+      "matches": 1
+    },
+    "Malawi||Sierra Leone": {
+      "Sierra Leone": 1,
+      "Malawi": 0,
+      "matches": 1
+    },
+    "Lesotho||Sierra Leone": {
+      "Sierra Leone": 1,
+      "Lesotho": 0,
+      "matches": 1
+    },
+    "Botswana||Namibia": {
+      "Botswana": 0,
+      "Namibia": 12,
+      "matches": 12
+    },
+    "Lesotho||Malawi": {
+      "Lesotho": 0,
+      "Malawi": 1,
+      "matches": 1
+    },
+    "Australia||United Arab Emirates": {
+      "United Arab Emirates": 0,
+      "Australia": 1,
+      "matches": 1
+    },
+    "Ireland||Zimbabwe": {
+      "Ireland": 6,
+      "Zimbabwe": 6,
+      "matches": 12
+    },
+    "Nepal||United Arab Emirates": {
+      "United Arab Emirates": 4,
+      "Nepal": 3,
+      "matches": 7
+    },
+    "Ireland||Oman": {
+      "Oman": 1,
+      "Ireland": 4,
+      "matches": 5
+    },
+    "China||Thailand": {
+      "Thailand": 1,
+      "China": 0,
+      "matches": 1
+    },
+    "Kuwait||Malaysia": {
+      "Kuwait": 0,
+      "Malaysia": 4,
+      "matches": 4
+    },
+    "Hong Kong||United Arab Emirates": {
+      "Hong Kong": 1,
+      "United Arab Emirates": 7,
+      "matches": 8
+    },
+    "Malaysia||Nepal": {
+      "Malaysia": 0,
+      "Nepal": 8,
+      "matches": 8
+    },
+    "China||Hong Kong": {
+      "China": 2,
+      "Hong Kong": 1,
+      "matches": 3
+    },
+    "Kuwait||United Arab Emirates": {
+      "Kuwait": 1,
+      "United Arab Emirates": 4,
+      "matches": 5
+    },
+    "Malaysia||United Arab Emirates": {
+      "Malaysia": 0,
+      "United Arab Emirates": 5,
+      "matches": 5
+    },
+    "Nepal||Thailand": {
+      "Thailand": 1,
+      "Nepal": 1,
+      "matches": 2
+    },
+    "China||Kuwait": {
+      "China": 1,
+      "Kuwait": 0,
+      "matches": 1
+    },
+    "Hong Kong||Thailand": {
+      "Thailand": 1,
+      "Hong Kong": 1,
+      "matches": 2
+    },
+    "China||Malaysia": {
+      "China": 1,
+      "Malaysia": 0,
+      "matches": 1
+    },
+    "China||United Arab Emirates": {
+      "China": 0,
+      "United Arab Emirates": 1,
+      "matches": 1
+    },
+    "Kuwait||Thailand": {
+      "Thailand": 1,
+      "Kuwait": 0,
+      "matches": 1
+    },
+    "Hong Kong||Nepal": {
+      "Hong Kong": 2,
+      "Nepal": 2,
+      "matches": 4
+    },
+    "China||Nepal": {
+      "China": 0,
+      "Nepal": 1,
+      "matches": 1
+    },
+    "Hong Kong||Kuwait": {
+      "Hong Kong": 5,
+      "Kuwait": 0,
+      "matches": 5
+    },
+    "Kuwait||Nepal": {
+      "Kuwait": 0,
+      "Nepal": 4,
+      "matches": 4
+    },
+    "Thailand||West Indies": {
+      "Thailand": 0,
+      "West Indies": 1,
+      "matches": 1
+    },
+    "England||Thailand": {
+      "England": 1,
+      "Thailand": 0,
+      "matches": 1
+    },
+    "Australia||Bangladesh": {
+      "Australia": 4,
+      "Bangladesh": 4,
+      "matches": 8
+    },
+    "South Africa||Thailand": {
+      "South Africa": 1,
+      "Thailand": 0,
+      "matches": 1
+    },
+    "Papua New Guinea||Philippines": {
+      "Papua New Guinea": 1,
+      "Philippines": 0,
+      "matches": 1
+    },
+    "Papua New Guinea||Vanuatu": {
+      "Papua New Guinea": 3,
+      "Vanuatu": 0,
+      "matches": 3
+    },
+    "Philippines||Vanuatu": {
+      "Philippines": 1,
+      "Vanuatu": 1,
+      "matches": 2
+    },
+    "United Arab Emirates||United States of America": {
+      "United Arab Emirates": 2,
+      "United States of America": 1,
+      "matches": 3
+    },
+    "Germany||Italy": {
+      "Germany": 3,
+      "Italy": 2,
+      "matches": 5
+    },
+    "Mozambique||Zimbabwe": {
+      "Zimbabwe": 1,
+      "Mozambique": 0,
+      "matches": 1
+    },
+    "Sierra Leone||Uganda": {
+      "Sierra Leone": 0,
+      "Uganda": 2,
+      "matches": 2
+    },
+    "Mozambique||Nigeria": {
+      "Mozambique": 0,
+      "Nigeria": 2,
+      "matches": 2
+    },
+    "Namibia||Uganda": {
+      "Namibia": 10,
+      "Uganda": 1,
+      "matches": 11
+    },
+    "Tanzania||Zimbabwe": {
+      "Zimbabwe": 2,
+      "Tanzania": 0,
+      "matches": 2
+    },
+    "Mozambique||Rwanda": {
+      "Mozambique": 0,
+      "Rwanda": 2,
+      "matches": 2
+    },
+    "Kenya||Uganda": {
+      "Kenya": 4,
+      "Uganda": 6,
+      "matches": 10
+    },
+    "Rwanda||Zimbabwe": {
+      "Zimbabwe": 2,
+      "Rwanda": 0,
+      "matches": 2
+    },
+    "Nigeria||Zimbabwe": {
+      "Zimbabwe": 1,
+      "Nigeria": 0,
+      "matches": 1
+    },
+    "Rwanda||Tanzania": {
+      "Rwanda": 1,
+      "Tanzania": 6,
+      "matches": 7
+    },
+    "Namibia||Zimbabwe": {
+      "Zimbabwe": 7,
+      "Namibia": 4,
+      "matches": 11
+    },
+    "Indonesia||Japan": {
+      "Indonesia": 3,
+      "Japan": 2,
+      "matches": 5
+    },
+    "Indonesia||Papua New Guinea": {
+      "Indonesia": 0,
+      "Papua New Guinea": 1,
+      "matches": 1
+    },
+    "Fiji||Papua New Guinea": {
+      "Fiji": 0,
+      "Papua New Guinea": 1,
+      "matches": 1
+    },
+    "Samoa||Vanuatu": {
+      "Vanuatu": 2,
+      "Samoa": 1,
+      "matches": 3
+    },
+    "Fiji||Japan": {
+      "Fiji": 0,
+      "Japan": 1,
+      "matches": 1
+    },
+    "Japan||Papua New Guinea": {
+      "Japan": 0,
+      "Papua New Guinea": 1,
+      "matches": 1
+    },
+    "Fiji||Indonesia": {
+      "Fiji": 0,
+      "Indonesia": 1,
+      "matches": 1
+    },
+    "Japan||Vanuatu": {
+      "Vanuatu": 1,
+      "Japan": 0,
+      "matches": 1
+    },
+    "Papua New Guinea||Samoa": {
+      "Papua New Guinea": 1,
+      "Samoa": 0,
+      "matches": 1
+    },
+    "Canada||United States of America": {
+      "United States of America": 3,
+      "Canada": 3,
+      "matches": 6
+    },
+    "Ghana||Namibia": {
+      "Ghana": 0,
+      "Namibia": 1,
+      "matches": 1
+    },
+    "Botswana||Uganda": {
+      "Uganda": 2,
+      "Botswana": 0,
+      "matches": 2
+    },
+    "Ghana||Kenya": {
+      "Ghana": 0,
+      "Kenya": 1,
+      "matches": 1
+    },
+    "Botswana||Nigeria": {
+      "Botswana": 0,
+      "Nigeria": 3,
+      "matches": 3
+    },
+    "Ghana||Uganda": {
+      "Uganda": 3,
+      "Ghana": 0,
+      "matches": 3
+    },
+    "Ghana||Nigeria": {
+      "Ghana": 0,
+      "Nigeria": 2,
+      "matches": 2
+    },
+    "Ireland||West Indies": {
+      "Ireland": 2,
+      "West Indies": 5,
+      "matches": 7
+    },
+    "Germany||Guernsey": {
+      "Guernsey": 0,
+      "Germany": 1,
+      "matches": 1
+    },
+    "Denmark||Norway": {
+      "Denmark": 1,
+      "Norway": 0,
+      "matches": 1
+    },
+    "Denmark||Jersey": {
+      "Denmark": 0,
+      "Jersey": 3,
+      "matches": 3
+    },
+    "Guernsey||Italy": {
+      "Guernsey": 0,
+      "Italy": 1,
+      "matches": 1
+    },
+    "Jersey||Norway": {
+      "Jersey": 1,
+      "Norway": 0,
+      "matches": 1
+    },
+    "Germany||Norway": {
+      "Germany": 3,
+      "Norway": 1,
+      "matches": 4
+    },
+    "Germany||Jersey": {
+      "Germany": 1,
+      "Jersey": 2,
+      "matches": 3
+    },
+    "Guernsey||Norway": {
+      "Guernsey": 2,
+      "Norway": 1,
+      "matches": 3
+    },
+    "Italy||Jersey": {
+      "Italy": 0,
+      "Jersey": 3,
+      "matches": 3
+    },
+    "Denmark||Germany": {
+      "Denmark": 0,
+      "Germany": 3,
+      "matches": 3
+    },
+    "Maldives||Thailand": {
+      "Maldives": 2,
+      "Thailand": 1,
+      "matches": 3
+    },
+    "Netherlands||Zimbabwe": {
+      "Netherlands": 2,
+      "Zimbabwe": 1,
+      "matches": 3
+    },
+    "Rwanda||Uganda": {
+      "Rwanda": 0,
+      "Uganda": 7,
+      "matches": 7
+    },
+    "Mali||Rwanda": {
+      "Rwanda": 2,
+      "Mali": 0,
+      "matches": 2
+    },
+    "Tanzania||Uganda": {
+      "Tanzania": 4,
+      "Uganda": 6,
+      "matches": 10
+    },
+    "Denmark||Guernsey": {
+      "Guernsey": 1,
+      "Denmark": 0,
+      "matches": 1
+    },
+    "Denmark||Italy": {
+      "Denmark": 1,
+      "Italy": 2,
+      "matches": 3
+    },
+    "Germany||Netherlands": {
+      "Germany": 0,
+      "Netherlands": 2,
+      "matches": 2
+    },
+    "Germany||Scotland": {
+      "Germany": 0,
+      "Scotland": 2,
+      "matches": 2
+    },
+    "Netherlands||Thailand": {
+      "Netherlands": 1,
+      "Thailand": 4,
+      "matches": 5
+    },
+    "Qatar||Singapore": {
+      "Singapore": 1,
+      "Qatar": 4,
+      "matches": 5
+    },
+    "Nepal||Qatar": {
+      "Nepal": 3,
+      "Qatar": 1,
+      "matches": 4
+    },
+    "Kuwait||Qatar": {
+      "Kuwait": 2,
+      "Qatar": 1,
+      "matches": 3
+    },
+    "Malaysia||Singapore": {
+      "Singapore": 3,
+      "Malaysia": 11,
+      "matches": 14
+    },
+    "Malaysia||Qatar": {
+      "Malaysia": 2,
+      "Qatar": 1,
+      "matches": 3
+    },
+    "Nepal||Singapore": {
+      "Singapore": 1,
+      "Nepal": 1,
+      "matches": 2
+    },
+    "Nigeria||Rwanda": {
+      "Rwanda": 3,
+      "Nigeria": 0,
+      "matches": 3
+    },
+    "Scotland||United States of America": {
+      "Scotland": 2,
+      "United States of America": 0,
+      "matches": 2
+    },
+    "Namibia||Thailand": {
+      "Namibia": 0,
+      "Thailand": 1,
+      "matches": 1
+    },
+    "Bangladesh||United States of America": {
+      "Bangladesh": 2,
+      "United States of America": 0,
+      "matches": 2
+    },
+    "Namibia||Netherlands": {
+      "Namibia": 2,
+      "Netherlands": 6,
+      "matches": 8
+    },
+    "Papua New Guinea||United States of America": {
+      "Papua New Guinea": 3,
+      "United States of America": 0,
+      "matches": 3
+    },
+    "Papua New Guinea||Thailand": {
+      "Papua New Guinea": 0,
+      "Thailand": 1,
+      "matches": 1
+    },
+    "Namibia||Scotland": {
+      "Scotland": 1,
+      "Namibia": 3,
+      "matches": 4
+    },
+    "Namibia||United States of America": {
+      "Namibia": 0,
+      "United States of America": 1,
+      "matches": 1
+    },
+    "Bangladesh||Zimbabwe": {
+      "Bangladesh": 8,
+      "Zimbabwe": 3,
+      "matches": 11
+    },
+    "Japan||South Korea": {
+      "South Korea": 0,
+      "Japan": 2,
+      "matches": 2
+    },
+    "Hong Kong||Japan": {
+      "Hong Kong": 3,
+      "Japan": 1,
+      "matches": 4
+    },
+    "China||South Korea": {
+      "South Korea": 0,
+      "China": 1,
+      "matches": 1
+    },
+    "Bermuda||United States of America": {
+      "Bermuda": 2,
+      "United States of America": 1,
+      "matches": 3
+    },
+    "Canada||Cayman Islands": {
+      "Canada": 2,
+      "Cayman Islands": 0,
+      "matches": 2
+    },
+    "Cayman Islands||United States of America": {
+      "Cayman Islands": 0,
+      "United States of America": 2,
+      "matches": 2
+    },
+    "Bermuda||Cayman Islands": {
+      "Bermuda": 3,
+      "Cayman Islands": 0,
+      "matches": 3
+    },
+    "Nepal||Netherlands": {
+      "Nepal": 3,
+      "Netherlands": 1,
+      "matches": 4
+    },
+    "Ireland||Nepal": {
+      "Ireland": 2,
+      "Nepal": 0,
+      "matches": 2
+    },
+    "Nepal||Oman": {
+      "Oman": 1,
+      "Nepal": 3,
+      "matches": 4
+    },
+    "Scotland||Singapore": {
+      "Scotland": 0,
+      "Singapore": 1,
+      "matches": 1
+    },
+    "Kenya||Netherlands": {
+      "Kenya": 0,
+      "Netherlands": 1,
+      "matches": 1
+    },
+    "Oman||United Arab Emirates": {
+      "United Arab Emirates": 1,
+      "Oman": 2,
+      "matches": 3
+    },
+    "Bermuda||Papua New Guinea": {
+      "Bermuda": 0,
+      "Papua New Guinea": 1,
+      "matches": 1
+    },
+    "Jersey||Nigeria": {
+      "Jersey": 1,
+      "Nigeria": 0,
+      "matches": 1
+    },
+    "Kenya||Scotland": {
+      "Kenya": 0,
+      "Scotland": 2,
+      "matches": 2
+    },
+    "Namibia||Papua New Guinea": {
+      "Namibia": 1,
+      "Papua New Guinea": 2,
+      "matches": 3
+    },
+    "Canada||Jersey": {
+      "Canada": 1,
+      "Jersey": 0,
+      "matches": 1
+    },
+    "Bermuda||Singapore": {
+      "Bermuda": 0,
+      "Singapore": 1,
+      "matches": 1
+    },
+    "Bermuda||Kenya": {
+      "Bermuda": 0,
+      "Kenya": 1,
+      "matches": 1
+    },
+    "Canada||Nigeria": {
+      "Canada": 1,
+      "Nigeria": 0,
+      "matches": 1
+    },
+    "Netherlands||Singapore": {
+      "Netherlands": 1,
+      "Singapore": 0,
+      "matches": 1
+    },
+    "Jersey||United Arab Emirates": {
+      "United Arab Emirates": 0,
+      "Jersey": 1,
+      "matches": 1
+    },
+    "Bermuda||Namibia": {
+      "Bermuda": 0,
+      "Namibia": 1,
+      "matches": 1
+    },
+    "Nigeria||Oman": {
+      "Nigeria": 0,
+      "Oman": 1,
+      "matches": 1
+    },
+    "Kenya||Singapore": {
+      "Kenya": 1,
+      "Singapore": 0,
+      "matches": 1
+    },
+    "Canada||Ireland": {
+      "Canada": 1,
+      "Ireland": 0,
+      "matches": 1
+    },
+    "Hong Kong||Jersey": {
+      "Hong Kong": 1,
+      "Jersey": 0,
+      "matches": 1
+    },
+    "Nigeria||United Arab Emirates": {
+      "United Arab Emirates": 1,
+      "Nigeria": 0,
+      "matches": 1
+    },
+    "Canada||Hong Kong": {
+      "Canada": 0,
+      "Hong Kong": 1,
+      "matches": 1
+    },
+    "Bermuda||Scotland": {
+      "Bermuda": 0,
+      "Scotland": 1,
+      "matches": 1
+    },
+    "Papua New Guinea||Singapore": {
+      "Papua New Guinea": 2,
+      "Singapore": 1,
+      "matches": 3
+    },
+    "Ireland||Jersey": {
+      "Ireland": 1,
+      "Jersey": 0,
+      "matches": 1
+    },
+    "Kenya||Namibia": {
+      "Kenya": 1,
+      "Namibia": 1,
+      "matches": 2
+    },
+    "Canada||Oman": {
+      "Canada": 3,
+      "Oman": 2,
+      "matches": 5
+    },
+    "Ireland||Nigeria": {
+      "Ireland": 1,
+      "Nigeria": 0,
+      "matches": 1
+    },
+    "Bermuda||Netherlands": {
+      "Bermuda": 0,
+      "Netherlands": 1,
+      "matches": 1
+    },
+    "Namibia||Singapore": {
+      "Namibia": 1,
+      "Singapore": 0,
+      "matches": 1
+    },
+    "Kenya||Papua New Guinea": {
+      "Kenya": 0,
+      "Papua New Guinea": 1,
+      "matches": 1
+    },
+    "Hong Kong||Nigeria": {
+      "Hong Kong": 1,
+      "Nigeria": 0,
+      "matches": 1
+    },
+    "Jersey||Oman": {
+      "Jersey": 1,
+      "Oman": 0,
+      "matches": 1
+    },
+    "Canada||United Arab Emirates": {
+      "United Arab Emirates": 1,
+      "Canada": 0,
+      "matches": 1
+    },
+    "Namibia||Oman": {
+      "Namibia": 1,
+      "Oman": 0,
+      "matches": 1
+    },
+    "Scotland||United Arab Emirates": {
+      "United Arab Emirates": 0,
+      "Scotland": 2,
+      "matches": 2
+    },
+    "Ireland||Namibia": {
+      "Ireland": 1,
+      "Namibia": 1,
+      "matches": 2
+    },
+    "Portugal||Spain": {
+      "Spain": 3,
+      "Portugal": 0,
+      "matches": 3
+    },
+    "Gibraltar||Portugal": {
+      "Gibraltar": 0,
+      "Portugal": 2,
+      "matches": 2
+    },
+    "Gibraltar||Spain": {
+      "Spain": 2,
+      "Gibraltar": 0,
+      "matches": 2
+    },
+    "Nepal||Zimbabwe": {
+      "Nepal": 0,
+      "Zimbabwe": 2,
+      "matches": 2
+    },
+    "Singapore||Zimbabwe": {
+      "Singapore": 1,
+      "Zimbabwe": 2,
+      "matches": 3
+    },
+    "Malaysia||Vanuatu": {
+      "Malaysia": 2,
+      "Vanuatu": 3,
+      "matches": 5
+    },
+    "Germany||Spain": {
+      "Spain": 4,
+      "Germany": 3,
+      "matches": 7
+    },
+    "Bhutan||Nepal": {
+      "Nepal": 3,
+      "Bhutan": 0,
+      "matches": 3
+    },
+    "Maldives||Nepal": {
+      "Nepal": 4,
+      "Maldives": 0,
+      "matches": 4
+    },
+    "Bhutan||Maldives": {
+      "Bhutan": 2,
+      "Maldives": 1,
+      "matches": 3
+    },
+    "Bangladesh||Nepal": {
+      "Nepal": 0,
+      "Bangladesh": 1,
+      "matches": 1
+    },
+    "Bangladesh||Maldives": {
+      "Bangladesh": 1,
+      "Maldives": 0,
+      "matches": 1
+    },
+    "Germany||Oman": {
+      "Oman": 0,
+      "Germany": 4,
+      "matches": 4
+    },
+    "Hong Kong||Malaysia": {
+      "Malaysia": 6,
+      "Hong Kong": 2,
+      "matches": 8
+    },
+    "Maldives||Oman": {
+      "Oman": 1,
+      "Maldives": 0,
+      "matches": 1
+    },
+    "Saudi Arabia||United Arab Emirates": {
+      "Saudi Arabia": 0,
+      "United Arab Emirates": 2,
+      "matches": 2
+    },
+    "Bahrain||Qatar": {
+      "Bahrain": 2,
+      "Qatar": 1,
+      "matches": 3
+    },
+    "Iran||Kuwait": {
+      "Iran": 0,
+      "Kuwait": 1,
+      "matches": 1
+    },
+    "Bahrain||Kuwait": {
+      "Kuwait": 5,
+      "Bahrain": 1,
+      "matches": 6
+    },
+    "Qatar||United Arab Emirates": {
+      "Qatar": 0,
+      "United Arab Emirates": 3,
+      "matches": 3
+    },
+    "Singapore||Thailand": {
+      "Thailand": 0,
+      "Singapore": 1,
+      "matches": 1
+    },
+    "Hong Kong||Singapore": {
+      "Hong Kong": 2,
+      "Singapore": 1,
+      "matches": 3
+    },
+    "Austria||Germany": {
+      "Germany": 6,
+      "Austria": 1,
+      "matches": 7
+    },
+    "Belgium||Luxembourg": {
+      "Belgium": 2,
+      "Luxembourg": 0,
+      "matches": 2
+    },
+    "Belgium||Czech Republic": {
+      "Belgium": 1,
+      "Czech Republic": 0,
+      "matches": 1
+    },
+    "Guernsey||Isle of Man": {
+      "Isle of Man": 0,
+      "Guernsey": 1,
+      "matches": 1
+    },
+    "Bulgaria||Romania": {
+      "Bulgaria": 1,
+      "Romania": 4,
+      "matches": 5
+    },
+    "Ireland||South Africa": {
+      "South Africa": 7,
+      "Ireland": 1,
+      "matches": 8
+    },
+    "Malaysia||Netherlands": {
+      "Netherlands": 1,
+      "Malaysia": 0,
+      "matches": 1
+    },
+    "Czech Republic||Luxembourg": {
+      "Luxembourg": 1,
+      "Czech Republic": 3,
+      "matches": 4
+    },
+    "Austria||Czech Republic": {
+      "Austria": 3,
+      "Czech Republic": 1,
+      "matches": 4
+    },
+    "Austria||Luxembourg": {
+      "Austria": 3,
+      "Luxembourg": 1,
+      "matches": 4
+    },
+    "Namibia||Nigeria": {
+      "Nigeria": 0,
+      "Namibia": 3,
+      "matches": 3
+    },
+    "Botswana||Kenya": {
+      "Botswana": 0,
+      "Kenya": 2,
+      "matches": 2
+    },
+    "Namibia||Rwanda": {
+      "Namibia": 1,
+      "Rwanda": 0,
+      "matches": 1
+    },
+    "Kenya||Rwanda": {
+      "Kenya": 4,
+      "Rwanda": 0,
+      "matches": 4
+    },
+    "Greece||Romania": {
+      "Greece": 0,
+      "Romania": 1,
+      "matches": 1
+    },
+    "Greece||Serbia": {
+      "Serbia": 0,
+      "Greece": 1,
+      "matches": 1
+    },
+    "Romania||Serbia": {
+      "Romania": 3,
+      "Serbia": 0,
+      "matches": 3
+    },
+    "Belgium||Malta": {
+      "Belgium": 3,
+      "Malta": 2,
+      "matches": 5
+    },
+    "France||Germany": {
+      "France": 0,
+      "Germany": 6,
+      "matches": 6
+    },
+    "France||Norway": {
+      "Norway": 1,
+      "France": 2,
+      "matches": 3
+    },
+    "Thailand||Zimbabwe": {
+      "Thailand": 2,
+      "Zimbabwe": 3,
+      "matches": 5
+    },
+    "Denmark||Sweden": {
+      "Denmark": 1,
+      "Sweden": 1,
+      "matches": 2
+    },
+    "Gibraltar||Malta": {
+      "Gibraltar": 0,
+      "Malta": 5,
+      "matches": 5
+    },
+    "Ghana||Rwanda": {
+      "Ghana": 3,
+      "Rwanda": 2,
+      "matches": 5
+    },
+    "Finland||Sweden": {
+      "Sweden": 2,
+      "Finland": 3,
+      "matches": 5
+    },
+    "Scotland||Zimbabwe": {
+      "Scotland": 1,
+      "Zimbabwe": 3,
+      "matches": 4
+    },
+    "Oman||Papua New Guinea": {
+      "Papua New Guinea": 0,
+      "Oman": 1,
+      "matches": 1
+    },
+    "Namibia||Sri Lanka": {
+      "Namibia": 1,
+      "Sri Lanka": 1,
+      "matches": 2
+    },
+    "Bangladesh||Oman": {
+      "Bangladesh": 1,
+      "Oman": 0,
+      "matches": 1
+    },
+    "Ireland||Sri Lanka": {
+      "Sri Lanka": 2,
+      "Ireland": 0,
+      "matches": 2
+    },
+    "Netherlands||Sri Lanka": {
+      "Netherlands": 0,
+      "Sri Lanka": 2,
+      "matches": 2
+    },
+    "Namibia||Pakistan": {
+      "Pakistan": 1,
+      "Namibia": 0,
+      "matches": 1
+    },
+    "New Zealand||Scotland": {
+      "New Zealand": 3,
+      "Scotland": 0,
+      "matches": 3
+    },
+    "Namibia||New Zealand": {
+      "New Zealand": 1,
+      "Namibia": 0,
+      "matches": 1
+    },
+    "India||Scotland": {
+      "Scotland": 0,
+      "India": 1,
+      "matches": 1
+    },
+    "India||Namibia": {
+      "Namibia": 0,
+      "India": 1,
+      "matches": 1
+    },
+    "Germany||Ireland": {
+      "Ireland": 2,
+      "Germany": 0,
+      "matches": 2
+    },
+    "France||Netherlands": {
+      "France": 0,
+      "Netherlands": 1,
+      "matches": 1
+    },
+    "France||Ireland": {
+      "France": 0,
+      "Ireland": 1,
+      "matches": 1
+    },
+    "France||Scotland": {
+      "France": 0,
+      "Scotland": 1,
+      "matches": 1
+    },
+    "Kenya||Nigeria": {
+      "Nigeria": 1,
+      "Kenya": 4,
+      "matches": 5
+    },
+    "Nigeria||Uganda": {
+      "Uganda": 6,
+      "Nigeria": 0,
+      "matches": 6
+    },
+    "Norway||Sweden": {
+      "Norway": 0,
+      "Sweden": 1,
+      "matches": 1
+    },
+    "Botswana||Eswatini": {
+      "Botswana": 1,
+      "Eswatini": 0,
+      "matches": 1
+    },
+    "Nigeria||Sierra Leone": {
+      "Sierra Leone": 1,
+      "Nigeria": 6,
+      "matches": 7
+    },
+    "Eswatini||Zimbabwe": {
+      "Eswatini": 0,
+      "Zimbabwe": 1,
+      "matches": 1
+    },
+    "Cameroon||Sierra Leone": {
+      "Cameroon": 0,
+      "Sierra Leone": 3,
+      "matches": 3
+    },
+    "Mozambique||Tanzania": {
+      "Tanzania": 3,
+      "Mozambique": 0,
+      "matches": 3
+    },
+    "Eswatini||Rwanda": {
+      "Rwanda": 1,
+      "Eswatini": 0,
+      "matches": 1
+    },
+    "Eswatini||Tanzania": {
+      "Tanzania": 2,
+      "Eswatini": 0,
+      "matches": 2
+    },
+    "Eswatini||Mozambique": {
+      "Mozambique": 2,
+      "Eswatini": 0,
+      "matches": 2
+    },
+    "Botswana||Tanzania": {
+      "Botswana": 0,
+      "Tanzania": 4,
+      "matches": 4
+    },
+    "Uganda||Zimbabwe": {
+      "Zimbabwe": 4,
+      "Uganda": 0,
+      "matches": 4
+    },
+    "Czech Republic||Romania": {
+      "Romania": 2,
+      "Czech Republic": 0,
+      "matches": 2
+    },
+    "Bulgaria||Luxembourg": {
+      "Luxembourg": 2,
+      "Bulgaria": 0,
+      "matches": 2
+    },
+    "Czech Republic||Hungary": {
+      "Hungary": 1,
+      "Czech Republic": 2,
+      "matches": 3
+    },
+    "Bulgaria||Malta": {
+      "Bulgaria": 0,
+      "Malta": 2,
+      "matches": 2
+    },
+    "Hungary||Romania": {
+      "Romania": 1,
+      "Hungary": 1,
+      "matches": 2
+    },
+    "Hungary||Luxembourg": {
+      "Luxembourg": 1,
+      "Hungary": 0,
+      "matches": 1
+    },
+    "Malta||Romania": {
+      "Romania": 2,
+      "Malta": 1,
+      "matches": 3
+    },
+    "Hungary||Malta": {
+      "Malta": 1,
+      "Hungary": 1,
+      "matches": 2
+    },
+    "Luxembourg||Romania": {
+      "Romania": 1,
+      "Luxembourg": 0,
+      "matches": 1
+    },
+    "Cyprus||Estonia": {
+      "Estonia": 0,
+      "Cyprus": 3,
+      "matches": 3
+    },
+    "Cyprus||Isle of Man": {
+      "Cyprus": 0,
+      "Isle of Man": 3,
+      "matches": 3
+    },
+    "Estonia||Isle of Man": {
+      "Estonia": 0,
+      "Isle of Man": 2,
+      "matches": 2
+    },
+    "Gibraltar||Switzerland": {
+      "Gibraltar": 0,
+      "Switzerland": 1,
+      "matches": 1
+    },
+    "Bulgaria||Switzerland": {
+      "Bulgaria": 0,
+      "Switzerland": 1,
+      "matches": 1
+    },
+    "Malta||Switzerland": {
+      "Switzerland": 1,
+      "Malta": 1,
+      "matches": 2
+    },
+    "Bulgaria||Gibraltar": {
+      "Gibraltar": 1,
+      "Bulgaria": 2,
+      "matches": 3
+    },
+    "Argentina||Brazil": {
+      "Argentina": 0,
+      "Brazil": 1,
+      "matches": 1
+    },
+    "Ghana||Seychelles": {
+      "Seychelles": 0,
+      "Ghana": 1,
+      "matches": 1
+    },
+    "Malawi||Uganda": {
+      "Malawi": 0,
+      "Uganda": 1,
+      "matches": 1
+    },
+    "Lesotho||Seychelles": {
+      "Lesotho": 0,
+      "Seychelles": 1,
+      "matches": 1
+    },
+    "Malawi||Swaziland": {
+      "Swaziland": 0,
+      "Malawi": 1,
+      "matches": 1
+    },
+    "Ghana||Malawi": {
+      "Malawi": 0,
+      "Ghana": 1,
+      "matches": 1
+    },
+    "Lesotho||Uganda": {
+      "Lesotho": 0,
+      "Uganda": 1,
+      "matches": 1
+    },
+    "Swaziland||Uganda": {
+      "Swaziland": 0,
+      "Uganda": 1,
+      "matches": 1
+    },
+    "Malawi||Seychelles": {
+      "Malawi": 1,
+      "Seychelles": 0,
+      "matches": 1
+    },
+    "Ghana||Swaziland": {
+      "Swaziland": 0,
+      "Ghana": 1,
+      "matches": 1
+    },
+    "Seychelles||Swaziland": {
+      "Swaziland": 0,
+      "Seychelles": 1,
+      "matches": 1
+    },
+    "Lesotho||Rwanda": {
+      "Rwanda": 1,
+      "Lesotho": 0,
+      "matches": 1
+    },
+    "Rwanda||Swaziland": {
+      "Swaziland": 0,
+      "Rwanda": 1,
+      "matches": 1
+    },
+    "Malawi||Rwanda": {
+      "Malawi": 1,
+      "Rwanda": 0,
+      "matches": 1
+    },
+    "Seychelles||Uganda": {
+      "Uganda": 1,
+      "Seychelles": 0,
+      "matches": 1
+    },
+    "Cameroon||Mozambique": {
+      "Mozambique": 2,
+      "Cameroon": 0,
+      "matches": 2
+    },
+    "Sierra Leone||Tanzania": {
+      "Sierra Leone": 0,
+      "Tanzania": 2,
+      "matches": 2
+    },
+    "Botswana||Cameroon": {
+      "Cameroon": 0,
+      "Botswana": 1,
+      "matches": 1
+    },
+    "Mozambique||Sierra Leone": {
+      "Mozambique": 0,
+      "Sierra Leone": 1,
+      "matches": 1
+    },
+    "Cameroon||Tanzania": {
+      "Tanzania": 2,
+      "Cameroon": 0,
+      "matches": 2
+    },
+    "Maldives||Saudi Arabia": {
+      "Maldives": 0,
+      "Saudi Arabia": 1,
+      "matches": 1
+    },
+    "Maldives||Qatar": {
+      "Qatar": 1,
+      "Maldives": 0,
+      "matches": 1
+    },
+    "Bahrain||Maldives": {
+      "Maldives": 0,
+      "Bahrain": 1,
+      "matches": 1
+    },
+    "Kuwait||Maldives": {
+      "Maldives": 0,
+      "Kuwait": 1,
+      "matches": 1
+    },
+    "Bahrain||Saudi Arabia": {
+      "Bahrain": 3,
+      "Saudi Arabia": 2,
+      "matches": 5
+    },
+    "Belize||United States of America": {
+      "Belize": 0,
+      "United States of America": 1,
+      "matches": 1
+    },
+    "Belize||Canada": {
+      "Canada": 1,
+      "Belize": 0,
+      "matches": 1
+    },
+    "Argentina||Bahamas": {
+      "Bahamas": 1,
+      "Argentina": 1,
+      "matches": 2
+    },
+    "Belize||Panama": {
+      "Belize": 1,
+      "Panama": 0,
+      "matches": 1
+    },
+    "Argentina||Belize": {
+      "Argentina": 1,
+      "Belize": 0,
+      "matches": 1
+    },
+    "Bahamas||Bermuda": {
+      "Bermuda": 2,
+      "Bahamas": 0,
+      "matches": 2
+    },
+    "Argentina||United States of America": {
+      "Argentina": 0,
+      "United States of America": 1,
+      "matches": 1
+    },
+    "Bahamas||United States of America": {
+      "Bahamas": 0,
+      "United States of America": 1,
+      "matches": 1
+    },
+    "Belize||Bermuda": {
+      "Belize": 0,
+      "Bermuda": 1,
+      "matches": 1
+    },
+    "Bahamas||Panama": {
+      "Panama": 1,
+      "Bahamas": 1,
+      "matches": 2
+    },
+    "Argentina||Canada": {
+      "Argentina": 0,
+      "Canada": 1,
+      "matches": 1
+    },
+    "Canada||Panama": {
+      "Canada": 1,
+      "Panama": 0,
+      "matches": 1
+    },
+    "Bhutan||Kuwait": {
+      "Bhutan": 1,
+      "Kuwait": 1,
+      "matches": 2
+    },
+    "Bhutan||United Arab Emirates": {
+      "United Arab Emirates": 1,
+      "Bhutan": 0,
+      "matches": 1
+    },
+    "Bhutan||Hong Kong": {
+      "Hong Kong": 2,
+      "Bhutan": 0,
+      "matches": 2
+    },
+    "Bhutan||Malaysia": {
+      "Malaysia": 3,
+      "Bhutan": 0,
+      "matches": 3
+    },
+    "Nigeria||Tanzania": {
+      "Nigeria": 0,
+      "Tanzania": 3,
+      "matches": 3
+    },
+    "Kenya||Tanzania": {
+      "Tanzania": 3,
+      "Kenya": 2,
+      "matches": 5
+    },
+    "Barbados||Pakistan": {
+      "Barbados": 1,
+      "Pakistan": 0,
+      "matches": 1
+    },
+    "Australia||Barbados": {
+      "Barbados": 0,
+      "Australia": 1,
+      "matches": 1
+    },
+    "Barbados||India": {
+      "India": 1,
+      "Barbados": 0,
+      "matches": 1
+    },
+    "Ireland||United States of America": {
+      "United States of America": 1,
+      "Ireland": 2,
+      "matches": 3
+    },
+    "Scotland||Sri Lanka": {
+      "Sri Lanka": 1,
+      "Scotland": 0,
+      "matches": 1
+    },
+    "Bangladesh||Kenya": {
+      "Bangladesh": 1,
+      "Kenya": 0,
+      "matches": 1
+    },
+    "Malaysia||Scotland": {
+      "Scotland": 1,
+      "Malaysia": 0,
+      "matches": 1
+    },
+    "Kenya||Sri Lanka": {
+      "Kenya": 0,
+      "Sri Lanka": 1,
+      "matches": 1
+    },
+    "Kenya||Malaysia": {
+      "Kenya": 0,
+      "Malaysia": 1,
+      "matches": 1
+    },
+    "Scotland||West Indies": {
+      "Scotland": 1,
+      "West Indies": 0,
+      "matches": 1
+    },
+    "Sri Lanka||United Arab Emirates": {
+      "Sri Lanka": 2,
+      "United Arab Emirates": 0,
+      "matches": 2
+    },
+    "West Indies||Zimbabwe": {
+      "West Indies": 1,
+      "Zimbabwe": 0,
+      "matches": 1
+    },
+    "Namibia||United Arab Emirates": {
+      "United Arab Emirates": 1,
+      "Namibia": 0,
+      "matches": 1
+    },
+    "England||Ireland": {
+      "Ireland": 1,
+      "England": 1,
+      "matches": 2
+    },
+    "India||Netherlands": {
+      "India": 1,
+      "Netherlands": 0,
+      "matches": 1
+    },
+    "Netherlands||Pakistan": {
+      "Netherlands": 0,
+      "Pakistan": 1,
+      "matches": 1
+    },
+    "Netherlands||South Africa": {
+      "Netherlands": 1,
+      "South Africa": 0,
+      "matches": 1
+    },
+    "Canada||Philippines": {
+      "Canada": 1,
+      "Philippines": 0,
+      "matches": 1
+    },
+    "Bahrain||Germany": {
+      "Germany": 0,
+      "Bahrain": 1,
+      "matches": 1
+    },
+    "Nepal||Philippines": {
+      "Nepal": 1,
+      "Philippines": 0,
+      "matches": 1
+    },
+    "Germany||United Arab Emirates": {
+      "United Arab Emirates": 1,
+      "Germany": 0,
+      "matches": 1
+    },
+    "Bahrain||Ireland": {
+      "Ireland": 1,
+      "Bahrain": 0,
+      "matches": 1
+    },
+    "Bahrain||United Arab Emirates": {
+      "Bahrain": 1,
+      "United Arab Emirates": 1,
+      "matches": 2
+    },
+    "Canada||Nepal": {
+      "Canada": 0,
+      "Nepal": 1,
+      "matches": 1
+    },
+    "Oman||Philippines": {
+      "Philippines": 0,
+      "Oman": 1,
+      "matches": 1
+    },
+    "Canada||Germany": {
+      "Germany": 0,
+      "Canada": 1,
+      "matches": 1
+    },
+    "Bahrain||Philippines": {
+      "Bahrain": 1,
+      "Philippines": 0,
+      "matches": 1
+    },
+    "Bahrain||Canada": {
+      "Bahrain": 1,
+      "Canada": 2,
+      "matches": 3
+    },
+    "Germany||Philippines": {
+      "Philippines": 0,
+      "Germany": 1,
+      "matches": 1
+    },
+    "Nepal||Papua New Guinea": {
+      "Nepal": 3,
+      "Papua New Guinea": 0,
+      "matches": 3
+    },
+    "Malaysia||Papua New Guinea": {
+      "Malaysia": 1,
+      "Papua New Guinea": 1,
+      "matches": 2
+    },
+    "Kuwait||Saudi Arabia": {
+      "Saudi Arabia": 0,
+      "Kuwait": 1,
+      "matches": 1
+    },
+    "Oman||Saudi Arabia": {
+      "Oman": 3,
+      "Saudi Arabia": 0,
+      "matches": 3
+    },
+    "Kuwait||Oman": {
+      "Oman": 1,
+      "Kuwait": 0,
+      "matches": 1
+    },
+    "Qatar||Saudi Arabia": {
+      "Qatar": 1,
+      "Saudi Arabia": 0,
+      "matches": 1
+    },
+    "Oman||Qatar": {
+      "Oman": 1,
+      "Qatar": 1,
+      "matches": 2
+    },
+    "Norway||Spain": {
+      "Spain": 3,
+      "Norway": 0,
+      "matches": 3
+    },
+    "Guernsey||Spain": {
+      "Guernsey": 1,
+      "Spain": 1,
+      "matches": 2
+    },
+    "Denmark||Finland": {
+      "Denmark": 2,
+      "Finland": 1,
+      "matches": 3
+    },
+    "Gibraltar||Hungary": {
+      "Gibraltar": 1,
+      "Hungary": 1,
+      "matches": 2
+    },
+    "Czech Republic||Gibraltar": {
+      "Czech Republic": 1,
+      "Gibraltar": 0,
+      "matches": 1
+    },
+    "Bulgaria||Hungary": {
+      "Hungary": 1,
+      "Bulgaria": 0,
+      "matches": 1
+    },
+    "Czech Republic||Malta": {
+      "Malta": 1,
+      "Czech Republic": 0,
+      "matches": 1
+    },
+    "Bulgaria||Czech Republic": {
+      "Czech Republic": 2,
+      "Bulgaria": 0,
+      "matches": 2
+    },
+    "Gibraltar||Romania": {
+      "Gibraltar": 0,
+      "Romania": 1,
+      "matches": 1
+    },
+    "Guernsey||Jersey": {
+      "Jersey": 2,
+      "Guernsey": 0,
+      "matches": 2
+    },
+    "Netherlands||New Zealand": {
+      "New Zealand": 2,
+      "Netherlands": 0,
+      "matches": 2
+    },
+    "Nepal||Uganda": {
+      "Uganda": 3,
+      "Nepal": 2,
+      "matches": 5
+    },
+    "Bulgaria||Serbia": {
+      "Serbia": 2,
+      "Bulgaria": 5,
+      "matches": 7
+    },
+    "Germany||Sweden": {
+      "Sweden": 0,
+      "Germany": 2,
+      "matches": 2
+    },
+    "Austria||Sweden": {
+      "Austria": 2,
+      "Sweden": 0,
+      "matches": 2
+    },
+    "Brazil||Nigeria": {
+      "Brazil": 0,
+      "Nigeria": 1,
+      "matches": 1
+    },
+    "Brazil||Rwanda": {
+      "Rwanda": 1,
+      "Brazil": 0,
+      "matches": 1
+    },
+    "Germany||Nigeria": {
+      "Germany": 0,
+      "Nigeria": 1,
+      "matches": 1
+    },
+    "Brazil||Germany": {
+      "Brazil": 1,
+      "Germany": 0,
+      "matches": 1
+    },
+    "Botswana||Rwanda": {
+      "Botswana": 0,
+      "Rwanda": 2,
+      "matches": 2
+    },
+    "Germany||Uganda": {
+      "Uganda": 1,
+      "Germany": 0,
+      "matches": 1
+    },
+    "Brazil||Kenya": {
+      "Kenya": 1,
+      "Brazil": 0,
+      "matches": 1
+    },
+    "Singapore||United Arab Emirates": {
+      "Singapore": 0,
+      "United Arab Emirates": 2,
+      "matches": 2
+    },
+    "Bahrain||Hong Kong": {
+      "Bahrain": 0,
+      "Hong Kong": 2,
+      "matches": 2
+    },
+    "Bahrain||Nepal": {
+      "Bahrain": 0,
+      "Nepal": 1,
+      "matches": 1
+    },
+    "Oman||Singapore": {
+      "Oman": 0,
+      "Singapore": 1,
+      "matches": 1
+    },
+    "Malaysia||Oman": {
+      "Malaysia": 1,
+      "Oman": 0,
+      "matches": 1
+    },
+    "Bahrain||Bhutan": {
+      "Bhutan": 1,
+      "Bahrain": 0,
+      "matches": 1
+    },
+    "Belgium||Gibraltar": {
+      "Gibraltar": 0,
+      "Belgium": 1,
+      "matches": 1
+    },
+    "Malta||Portugal": {
+      "Portugal": 1,
+      "Malta": 0,
+      "matches": 1
+    },
+    "Denmark||Gibraltar": {
+      "Denmark": 1,
+      "Gibraltar": 0,
+      "matches": 1
+    },
+    "Israel||Spain": {
+      "Israel": 0,
+      "Spain": 1,
+      "matches": 1
+    },
+    "Belgium||Hungary": {
+      "Hungary": 0,
+      "Belgium": 1,
+      "matches": 1
+    },
+    "Israel||Malta": {
+      "Malta": 1,
+      "Israel": 0,
+      "matches": 1
+    },
+    "Belgium||Denmark": {
+      "Belgium": 1,
+      "Denmark": 0,
+      "matches": 1
+    },
+    "Belgium||Portugal": {
+      "Belgium": 0,
+      "Portugal": 1,
+      "matches": 1
+    },
+    "Denmark||Spain": {
+      "Denmark": 1,
+      "Spain": 0,
+      "matches": 1
+    },
+    "Hungary||Israel": {
+      "Israel": 1,
+      "Hungary": 0,
+      "matches": 1
+    },
+    "Belgium||Spain": {
+      "Spain": 0,
+      "Belgium": 1,
+      "matches": 1
+    },
+    "Denmark||Portugal": {
+      "Portugal": 0,
+      "Denmark": 1,
+      "matches": 1
+    },
+    "Romania||Turkey": {
+      "Romania": 1,
+      "Turkey": 0,
+      "matches": 1
+    },
+    "Cyprus||Romania": {
+      "Cyprus": 1,
+      "Romania": 0,
+      "matches": 1
+    },
+    "Croatia||Sweden": {
+      "Croatia": 0,
+      "Sweden": 1,
+      "matches": 1
+    },
+    "Isle of Man||Serbia": {
+      "Isle of Man": 1,
+      "Serbia": 0,
+      "matches": 1
+    },
+    "Finland||Italy": {
+      "Finland": 0,
+      "Italy": 1,
+      "matches": 1
+    },
+    "Italy||Sweden": {
+      "Italy": 1,
+      "Sweden": 0,
+      "matches": 1
+    },
+    "Serbia||Turkey": {
+      "Turkey": 0,
+      "Serbia": 1,
+      "matches": 1
+    },
+    "Croatia||Greece": {
+      "Croatia": 1,
+      "Greece": 0,
+      "matches": 1
+    },
+    "Isle of Man||Romania": {
+      "Romania": 0,
+      "Isle of Man": 1,
+      "matches": 1
+    },
+    "Finland||Greece": {
+      "Finland": 1,
+      "Greece": 0,
+      "matches": 1
+    },
+    "Cyprus||Turkey": {
+      "Cyprus": 1,
+      "Turkey": 0,
+      "matches": 1
+    },
+    "Croatia||Italy": {
+      "Italy": 1,
+      "Croatia": 0,
+      "matches": 1
+    },
+    "Greece||Sweden": {
+      "Sweden": 1,
+      "Greece": 0,
+      "matches": 1
+    },
+    "Cyprus||Serbia": {
+      "Cyprus": 0,
+      "Serbia": 1,
+      "matches": 1
+    },
+    "Croatia||Finland": {
+      "Croatia": 0,
+      "Finland": 1,
+      "matches": 1
+    },
+    "Isle of Man||Turkey": {
+      "Isle of Man": 1,
+      "Turkey": 0,
+      "matches": 1
+    },
+    "Croatia||Serbia": {
+      "Serbia": 0,
+      "Croatia": 1,
+      "matches": 1
+    },
+    "Cyprus||Finland": {
+      "Finland": 1,
+      "Cyprus": 0,
+      "matches": 1
+    },
+    "Romania||Sweden": {
+      "Romania": 0,
+      "Sweden": 1,
+      "matches": 1
+    },
+    "Isle of Man||Italy": {
+      "Isle of Man": 0,
+      "Italy": 1,
+      "matches": 1
+    },
+    "Estonia||Norway": {
+      "Estonia": 0,
+      "Norway": 1,
+      "matches": 1
+    },
+    "Bulgaria||Guernsey": {
+      "Guernsey": 1,
+      "Bulgaria": 0,
+      "matches": 1
+    },
+    "Czech Republic||France": {
+      "France": 1,
+      "Czech Republic": 0,
+      "matches": 1
+    },
+    "Austria||Slovenia": {
+      "Austria": 1,
+      "Slovenia": 0,
+      "matches": 1
+    },
+    "France||Switzerland": {
+      "France": 0,
+      "Switzerland": 1,
+      "matches": 1
+    },
+    "Guernsey||Luxembourg": {
+      "Guernsey": 1,
+      "Luxembourg": 0,
+      "matches": 1
+    },
+    "Austria||Guernsey": {
+      "Guernsey": 0,
+      "Austria": 1,
+      "matches": 1
+    },
+    "Estonia||Switzerland": {
+      "Switzerland": 1,
+      "Estonia": 0,
+      "matches": 1
+    },
+    "Bulgaria||Slovenia": {
+      "Slovenia": 0,
+      "Bulgaria": 1,
+      "matches": 1
+    },
+    "Norway||Switzerland": {
+      "Norway": 1,
+      "Switzerland": 0,
+      "matches": 1
+    },
+    "Czech Republic||Estonia": {
+      "Czech Republic": 1,
+      "Estonia": 0,
+      "matches": 1
+    },
+    "Guernsey||Slovenia": {
+      "Slovenia": 0,
+      "Guernsey": 1,
+      "matches": 1
+    },
+    "Czech Republic||Switzerland": {
+      "Switzerland": 0,
+      "Czech Republic": 1,
+      "matches": 1
+    },
+    "Luxembourg||Slovenia": {
+      "Luxembourg": 1,
+      "Slovenia": 0,
+      "matches": 1
+    },
+    "France||Guernsey": {
+      "Guernsey": 1,
+      "France": 0,
+      "matches": 1
+    },
+    "Luxembourg||Switzerland": {
+      "Luxembourg": 1,
+      "Switzerland": 0,
+      "matches": 1
+    },
+    "Austria||Norway": {
+      "Norway": 0,
+      "Austria": 1,
+      "matches": 1
+    },
+    "Jersey||United States of America": {
+      "Jersey": 0,
+      "United States of America": 1,
+      "matches": 1
+    },
+    "Hong Kong||Uganda": {
+      "Hong Kong": 0,
+      "Uganda": 2,
+      "matches": 2
+    },
+    "Jersey||Zimbabwe": {
+      "Zimbabwe": 1,
+      "Jersey": 0,
+      "matches": 1
+    },
+    "Singapore||United States of America": {
+      "United States of America": 1,
+      "Singapore": 0,
+      "matches": 1
+    },
+    "Papua New Guinea||Uganda": {
+      "Uganda": 0,
+      "Papua New Guinea": 1,
+      "matches": 1
+    },
+    "Hong Kong||Papua New Guinea": {
+      "Papua New Guinea": 0,
+      "Hong Kong": 1,
+      "matches": 1
+    },
+    "United States of America||Zimbabwe": {
+      "Zimbabwe": 1,
+      "United States of America": 0,
+      "matches": 1
+    },
+    "Jersey||Uganda": {
+      "Uganda": 1,
+      "Jersey": 0,
+      "matches": 1
+    },
+    "Papua New Guinea||Zimbabwe": {
+      "Zimbabwe": 2,
+      "Papua New Guinea": 0,
+      "matches": 2
+    },
+    "Netherlands||United States of America": {
+      "United States of America": 0,
+      "Netherlands": 1,
+      "matches": 1
+    },
+    "Jersey||Singapore": {
+      "Singapore": 0,
+      "Jersey": 1,
+      "matches": 1
+    },
+    "Bhutan||Thailand": {
+      "Thailand": 0,
+      "Bhutan": 2,
+      "matches": 2
+    },
+    "Malaysia||Maldives": {
+      "Maldives": 0,
+      "Malaysia": 1,
+      "matches": 1
+    },
+    "Hong Kong||India": {
+      "India": 1,
+      "Hong Kong": 0,
+      "matches": 1
+    },
+    "Hong Kong||Pakistan": {
+      "Pakistan": 1,
+      "Hong Kong": 0,
+      "matches": 1
+    },
+    "Kenya||Nepal": {
+      "Kenya": 1,
+      "Nepal": 3,
+      "matches": 4
+    },
+    "Kuwait||Singapore": {
+      "Singapore": 0,
+      "Kuwait": 1,
+      "matches": 1
+    },
+    "United Arab Emirates||Zimbabwe": {
+      "Zimbabwe": 1,
+      "United Arab Emirates": 1,
+      "matches": 2
+    },
+    "Ghana||Mozambique": {
+      "Ghana": 1,
+      "Mozambique": 1,
+      "matches": 2
+    },
+    "Mozambique||Uganda": {
+      "Uganda": 1,
+      "Mozambique": 0,
+      "matches": 1
+    },
+    "Malawi||Tanzania": {
+      "Tanzania": 1,
+      "Malawi": 0,
+      "matches": 1
+    },
+    "Cameroon||Kenya": {
+      "Cameroon": 0,
+      "Kenya": 1,
+      "matches": 1
+    },
+    "Botswana||Ghana": {
+      "Botswana": 1,
+      "Ghana": 0,
+      "matches": 1
+    },
+    "Cook Islands||Fiji": {
+      "Cook Islands": 1,
+      "Fiji": 1,
+      "matches": 2
+    },
+    "Cook Islands||Vanuatu": {
+      "Vanuatu": 1,
+      "Cook Islands": 1,
+      "matches": 2
+    },
+    "Fiji||Samoa": {
+      "Samoa": 0,
+      "Fiji": 2,
+      "matches": 2
+    },
+    "Cook Islands||Samoa": {
+      "Samoa": 0,
+      "Cook Islands": 1,
+      "matches": 1
+    },
+    "Fiji||Vanuatu": {
+      "Vanuatu": 1,
+      "Fiji": 0,
+      "matches": 1
+    },
+    "India||United Arab Emirates": {
+      "India": 1,
+      "United Arab Emirates": 0,
+      "matches": 1
+    },
+    "Pakistan||United Arab Emirates": {
+      "Pakistan": 1,
+      "United Arab Emirates": 0,
+      "matches": 1
+    },
+    "Indonesia||South Korea": {
+      "Indonesia": 2,
+      "South Korea": 0,
+      "matches": 2
+    },
+    "Italy||Spain": {
+      "Italy": 1,
+      "Spain": 1,
+      "matches": 2
+    },
+    "Spain||Sweden": {
+      "Spain": 1,
+      "Sweden": 0,
+      "matches": 1
+    },
+    "Lesotho||Mali": {
+      "Lesotho": 1,
+      "Mali": 0,
+      "matches": 1
+    },
+    "Rwanda||St Helena": {
+      "Rwanda": 1,
+      "St Helena": 0,
+      "matches": 1
+    },
+    "Kenya||Mali": {
+      "Mali": 0,
+      "Kenya": 1,
+      "matches": 1
+    },
+    "Kenya||Lesotho": {
+      "Kenya": 1,
+      "Lesotho": 0,
+      "matches": 1
+    },
+    "Botswana||Mali": {
+      "Mali": 0,
+      "Botswana": 1,
+      "matches": 1
+    },
+    "Lesotho||St Helena": {
+      "St Helena": 1,
+      "Lesotho": 0,
+      "matches": 1
+    },
+    "Malawi||St Helena": {
+      "St Helena": 0,
+      "Malawi": 1,
+      "matches": 1
+    },
+    "Rwanda||Seychelles": {
+      "Rwanda": 1,
+      "Seychelles": 0,
+      "matches": 1
+    },
+    "Kenya||Seychelles": {
+      "Seychelles": 0,
+      "Kenya": 1,
+      "matches": 1
+    },
+    "Eswatini||Gambia": {
+      "Gambia": 0,
+      "Eswatini": 1,
+      "matches": 1
+    },
+    "Eswatini||Nigeria": {
+      "Nigeria": 1,
+      "Eswatini": 0,
+      "matches": 1
+    },
+    "Ghana||Tanzania": {
+      "Ghana": 0,
+      "Tanzania": 1,
+      "matches": 1
+    },
+    "Eswatini||Sierra Leone": {
+      "Sierra Leone": 1,
+      "Eswatini": 0,
+      "matches": 1
+    },
+    "Cameroon||Nigeria": {
+      "Cameroon": 0,
+      "Nigeria": 1,
+      "matches": 1
+    },
+    "Ghana||Sierra Leone": {
+      "Ghana": 0,
+      "Sierra Leone": 1,
+      "matches": 1
+    },
+    "Gambia||Sierra Leone": {
+      "Gambia": 0,
+      "Sierra Leone": 1,
+      "matches": 1
+    },
+    "Gambia||Tanzania": {
+      "Gambia": 0,
+      "Tanzania": 1,
+      "matches": 1
+    },
+    "Gambia||Ghana": {
+      "Ghana": 1,
+      "Gambia": 0,
+      "matches": 1
+    },
+    "Gambia||Mozambique": {
+      "Mozambique": 1,
+      "Gambia": 0,
+      "matches": 1
+    },
+    "Cameroon||Gambia": {
+      "Gambia": 1,
+      "Cameroon": 0,
+      "matches": 1
+    },
+    "Canada||Saudi Arabia": {
+      "Canada": 2,
+      "Saudi Arabia": 0,
+      "matches": 2
+    },
+    "Bahrain||Oman": {
+      "Oman": 1,
+      "Bahrain": 1,
+      "matches": 2
+    },
+    "Kenya||Qatar": {
+      "Qatar": 0,
+      "Kenya": 1,
+      "matches": 1
+    },
+    "Qatar||Tanzania": {
+      "Tanzania": 2,
+      "Qatar": 0,
+      "matches": 2
+    },
+    "Bahrain||Malaysia": {
+      "Bahrain": 1,
+      "Malaysia": 2,
+      "matches": 3
+    },
+    "Bahrain||Singapore": {
+      "Singapore": 0,
+      "Bahrain": 1,
+      "matches": 1
+    },
+    "Isle of Man||Spain": {
+      "Isle of Man": 0,
+      "Spain": 4,
+      "matches": 4
+    },
+    "Cambodia||Singapore": {
+      "Singapore": 4,
+      "Cambodia": 0,
+      "matches": 4
+    },
+    "Argentina||Bermuda": {
+      "Argentina": 0,
+      "Bermuda": 3,
+      "matches": 3
+    },
+    "Bahamas||Cayman Islands": {
+      "Cayman Islands": 1,
+      "Bahamas": 0,
+      "matches": 1
+    },
+    "Bermuda||Panama": {
+      "Bermuda": 1,
+      "Panama": 0,
+      "matches": 1
+    },
+    "Argentina||Panama": {
+      "Panama": 1,
+      "Argentina": 0,
+      "matches": 1
+    },
+    "Cayman Islands||Panama": {
+      "Cayman Islands": 1,
+      "Panama": 0,
+      "matches": 1
+    },
+    "Argentina||Cayman Islands": {
+      "Argentina": 0,
+      "Cayman Islands": 1,
+      "matches": 1
+    }
+  },
+  "venue_profiles": {
+    "Melbourne Cricket Ground": {
+      "matches": 11,
+      "avg_first_innings": 155.82,
+      "chase_win_pct": 0.6364,
+      "pitch_type": "balanced"
+    },
+    "Simonds Stadium, South Geelong": {
+      "matches": 2,
+      "avg_first_innings": 137.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Adelaide Oval": {
+      "matches": 10,
+      "avg_first_innings": 164.1,
+      "chase_win_pct": 0.4,
+      "pitch_type": "balanced"
+    },
+    "Bready Cricket Club, Magheramason": {
+      "matches": 2,
+      "avg_first_innings": 150.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Harare Sports Club": {
+      "matches": 23,
+      "avg_first_innings": 155.48,
+      "chase_win_pct": 0.4783,
+      "pitch_type": "spin_friendly"
+    },
+    "McLean Park": {
+      "matches": 5,
+      "avg_first_innings": 171.4,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Bay Oval": {
+      "matches": 9,
+      "avg_first_innings": 186.89,
+      "chase_win_pct": 0.1111,
+      "pitch_type": "pace_friendly"
+    },
+    "Eden Park": {
+      "matches": 12,
+      "avg_first_innings": 171.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "The Rose Bowl": {
+      "matches": 4,
+      "avg_first_innings": 151.5,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "County Ground": {
+      "matches": 13,
+      "avg_first_innings": 154.31,
+      "chase_win_pct": 0.3846,
+      "pitch_type": "spin_friendly"
+    },
+    "Sophia Gardens": {
+      "matches": 3,
+      "avg_first_innings": 167.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Riverside Ground": {
+      "matches": 1,
+      "avg_first_innings": 176.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Green Park": {
+      "matches": 1,
+      "avg_first_innings": 147.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Vidarbha Cricket Association Stadium, Jamtha": {
+      "matches": 2,
+      "avg_first_innings": 159.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "spin_friendly"
+    },
+    "M Chinnaswamy Stadium": {
+      "matches": 1,
+      "avg_first_innings": 202.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Central Broward Regional Park Stadium Turf Ground": {
+      "matches": 7,
+      "avg_first_innings": 155.86,
+      "chase_win_pct": 0.1429,
+      "pitch_type": "spin_friendly"
+    },
+    "Sinhalese Sports Club Ground": {
+      "matches": 2,
+      "avg_first_innings": 91.5,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Dubai International Cricket Stadium": {
+      "matches": 46,
+      "avg_first_innings": 151.17,
+      "chase_win_pct": 0.4783,
+      "pitch_type": "spin_friendly"
+    },
+    "Sheikh Zayed Stadium": {
+      "matches": 25,
+      "avg_first_innings": 134.56,
+      "chase_win_pct": 0.56,
+      "pitch_type": "balanced"
+    },
+    "Saxton Oval": {
+      "matches": 3,
+      "avg_first_innings": 161.67,
+      "chase_win_pct": 0.0,
+      "pitch_type": "balanced"
+    },
+    "Asian Institute of Technology Ground": {
+      "matches": 12,
+      "avg_first_innings": 95.58,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Sydney Cricket Ground": {
+      "matches": 13,
+      "avg_first_innings": 167.15,
+      "chase_win_pct": 0.3846,
+      "pitch_type": "balanced"
+    },
+    "Bellerive Oval": {
+      "matches": 1,
+      "avg_first_innings": 155.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Westpac Stadium": {
+      "matches": 9,
+      "avg_first_innings": 159.78,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "spin_friendly"
+    },
+    "Seddon Park": {
+      "matches": 8,
+      "avg_first_innings": 166.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Mangaung Oval": {
+      "matches": 3,
+      "avg_first_innings": 142.67,
+      "chase_win_pct": 0.0,
+      "pitch_type": "slow_low"
+    },
+    "Senwes Park": {
+      "matches": 3,
+      "avg_first_innings": 173.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Kensington Oval, Bridgetown": {
+      "matches": 1,
+      "avg_first_innings": 111.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Queen's Park Oval, Port of Spain": {
+      "matches": 3,
+      "avg_first_innings": 131.0,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "R Premadasa Stadium": {
+      "matches": 2,
+      "avg_first_innings": 165.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "North Sydney Oval": {
+      "matches": 5,
+      "avg_first_innings": 164.2,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Manuka Oval": {
+      "matches": 12,
+      "avg_first_innings": 153.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Sabina Park, Kingston": {
+      "matches": 1,
+      "avg_first_innings": 190.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "R.Premadasa Stadium, Khettarama": {
+      "matches": 10,
+      "avg_first_innings": 163.5,
+      "chase_win_pct": 0.8,
+      "pitch_type": "balanced"
+    },
+    "Gaddafi Stadium": {
+      "matches": 13,
+      "avg_first_innings": 162.15,
+      "chase_win_pct": 0.3846,
+      "pitch_type": "balanced"
+    },
+    "JSCA International Stadium Complex": {
+      "matches": 1,
+      "avg_first_innings": 118.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Barsapara Cricket Stadium": {
+      "matches": 4,
+      "avg_first_innings": 127.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Edgbaston": {
+      "matches": 1,
+      "avg_first_innings": 221.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Old Trafford": {
+      "matches": 3,
+      "avg_first_innings": 181.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "batting_friendly"
+    },
+    "Arun Jaitley Stadium": {
+      "matches": 2,
+      "avg_first_innings": 175.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Saurashtra Cricket Association Stadium": {
+      "matches": 2,
+      "avg_first_innings": 174.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Greenfield International Stadium": {
+      "matches": 2,
+      "avg_first_innings": 118.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "The Wanderers Stadium": {
+      "matches": 5,
+      "avg_first_innings": 183.6,
+      "chase_win_pct": 0.2,
+      "pitch_type": "pace_friendly"
+    },
+    "SuperSport Park": {
+      "matches": 5,
+      "avg_first_innings": 184.2,
+      "chase_win_pct": 0.4,
+      "pitch_type": "pace_friendly"
+    },
+    "Newlands": {
+      "matches": 7,
+      "avg_first_innings": 169.0,
+      "chase_win_pct": 0.4286,
+      "pitch_type": "balanced"
+    },
+    "Barabati Stadium": {
+      "matches": 1,
+      "avg_first_innings": 180.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Holkar Cricket Stadium": {
+      "matches": 2,
+      "avg_first_innings": 201.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "batting_friendly"
+    },
+    "Wankhede Stadium": {
+      "matches": 2,
+      "avg_first_innings": 187.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "batting_friendly"
+    },
+    "Coolidge Cricket Ground": {
+      "matches": 1,
+      "avg_first_innings": 154.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "spin_friendly"
+    },
+    "Sharjah Cricket Stadium": {
+      "matches": 14,
+      "avg_first_innings": 144.29,
+      "chase_win_pct": 0.4286,
+      "pitch_type": "slow_low"
+    },
+    "Buffalo Park": {
+      "matches": 3,
+      "avg_first_innings": 159.67,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "spin_friendly"
+    },
+    "The Cooper Associates County Ground": {
+      "matches": 4,
+      "avg_first_innings": 199.5,
+      "chase_win_pct": 0.25,
+      "pitch_type": "pace_friendly"
+    },
+    "Grange Cricket Club, Raeburn Place": {
+      "matches": 2,
+      "avg_first_innings": 185.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Shere Bangla National Stadium, Mirpur": {
+      "matches": 21,
+      "avg_first_innings": 137.1,
+      "chase_win_pct": 0.5238,
+      "pitch_type": "balanced"
+    },
+    "Sylhet International Cricket Stadium": {
+      "matches": 16,
+      "avg_first_innings": 120.0,
+      "chase_win_pct": 0.3125,
+      "pitch_type": "slow_low"
+    },
+    "Brabourne Stadium": {
+      "matches": 7,
+      "avg_first_innings": 156.71,
+      "chase_win_pct": 0.7143,
+      "pitch_type": "balanced"
+    },
+    "Pukekura Park": {
+      "matches": 1,
+      "avg_first_innings": 134.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "slow_low"
+    },
+    "Nondescripts Cricket Club Ground": {
+      "matches": 1,
+      "avg_first_innings": 72.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "National Stadium": {
+      "matches": 4,
+      "avg_first_innings": 157.25,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "The Village, Malahide": {
+      "matches": 6,
+      "avg_first_innings": 195.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "batting_friendly"
+    },
+    "Lord's": {
+      "matches": 1,
+      "avg_first_innings": 199.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Hazelaarweg": {
+      "matches": 3,
+      "avg_first_innings": 167.0,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "balanced"
+    },
+    "Sportpark Het Schootsveld": {
+      "matches": 10,
+      "avg_first_innings": 123.6,
+      "chase_win_pct": 0.4,
+      "pitch_type": "slow_low"
+    },
+    "VRA Ground": {
+      "matches": 12,
+      "avg_first_innings": 115.25,
+      "chase_win_pct": 0.5833,
+      "pitch_type": "balanced"
+    },
+    "Allan Border Field": {
+      "matches": 4,
+      "avg_first_innings": 133.5,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "Carrara Oval": {
+      "matches": 4,
+      "avg_first_innings": 130.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Brisbane Cricket Ground, Woolloongabba": {
+      "matches": 2,
+      "avg_first_innings": 137.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "YMCA Cricket Club": {
+      "matches": 3,
+      "avg_first_innings": 136.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "The Village, Malahide, Dublin": {
+      "matches": 7,
+      "avg_first_innings": 141.71,
+      "chase_win_pct": 0.5714,
+      "pitch_type": "balanced"
+    },
+    "Pembroke Cricket Club, Sandymount": {
+      "matches": 1,
+      "avg_first_innings": 151.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Warner Park, Basseterre": {
+      "matches": 1,
+      "avg_first_innings": 143.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Sportpark Maarschalkerweerd": {
+      "matches": 10,
+      "avg_first_innings": 92.8,
+      "chase_win_pct": 0.8,
+      "pitch_type": "balanced"
+    },
+    "Kinrara Academy Oval": {
+      "matches": 31,
+      "avg_first_innings": 138.13,
+      "chase_win_pct": 0.4839,
+      "pitch_type": "balanced"
+    },
+    "Royal Selangor Club": {
+      "matches": 6,
+      "avg_first_innings": 115.33,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Providence Stadium": {
+      "matches": 11,
+      "avg_first_innings": 138.0,
+      "chase_win_pct": 0.2727,
+      "pitch_type": "slow_low"
+    },
+    "Daren Sammy National Cricket Stadium, Gros Islet": {
+      "matches": 8,
+      "avg_first_innings": 109.38,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Sir Vivian Richards Stadium, North Sound": {
+      "matches": 3,
+      "avg_first_innings": 119.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Brian Lara Stadium, Tarouba": {
+      "matches": 3,
+      "avg_first_innings": 130.33,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Colombo Cricket Club Ground": {
+      "matches": 2,
+      "avg_first_innings": 132.5,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Chilaw Marians Cricket Club Ground": {
+      "matches": 1,
+      "avg_first_innings": 156.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "spin_friendly"
+    },
+    "Eden Gardens": {
+      "matches": 1,
+      "avg_first_innings": 109.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium": {
+      "matches": 4,
+      "avg_first_innings": 148.75,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "MA Chidambaram Stadium, Chepauk": {
+      "matches": 1,
+      "avg_first_innings": 181.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "Darren Sammy National Cricket Stadium, St Lucia": {
+      "matches": 3,
+      "avg_first_innings": 149.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Warner Park, St Kitts": {
+      "matches": 3,
+      "avg_first_innings": 130.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Botswana Cricket Association Oval 1": {
+      "matches": 8,
+      "avg_first_innings": 102.75,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "Botswana Cricket Association Oval 2": {
+      "matches": 4,
+      "avg_first_innings": 95.75,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Botswana Cricket Association Oval 1, Gaborone": {
+      "matches": 15,
+      "avg_first_innings": 138.47,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Tolerance Oval": {
+      "matches": 9,
+      "avg_first_innings": 126.78,
+      "chase_win_pct": 0.5556,
+      "pitch_type": "balanced"
+    },
+    "County Ground, Hove": {
+      "matches": 4,
+      "avg_first_innings": 145.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium": {
+      "matches": 1,
+      "avg_first_innings": 126.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "M.Chinnaswamy Stadium": {
+      "matches": 2,
+      "avg_first_innings": 162.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Bready": {
+      "matches": 1,
+      "avg_first_innings": 171.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "ICC Academy": {
+      "matches": 14,
+      "avg_first_innings": 139.0,
+      "chase_win_pct": 0.3571,
+      "pitch_type": "slow_low"
+    },
+    "Southend Club Cricket Stadium": {
+      "matches": 2,
+      "avg_first_innings": 155.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "spin_friendly"
+    },
+    "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)": {
+      "matches": 71,
+      "avg_first_innings": 151.89,
+      "chase_win_pct": 0.5211,
+      "pitch_type": "balanced"
+    },
+    "Terdthai Cricket Ground": {
+      "matches": 17,
+      "avg_first_innings": 107.0,
+      "chase_win_pct": 0.4706,
+      "pitch_type": "spin_friendly"
+    },
+    "Sydney Showground Stadium": {
+      "matches": 3,
+      "avg_first_innings": 137.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "slow_low"
+    },
+    "W.A.C.A. Ground": {
+      "matches": 5,
+      "avg_first_innings": 118.4,
+      "chase_win_pct": 0.8,
+      "pitch_type": "balanced"
+    },
+    "Junction Oval": {
+      "matches": 9,
+      "avg_first_innings": 129.56,
+      "chase_win_pct": 0.4444,
+      "pitch_type": "slow_low"
+    },
+    "P Sara Oval": {
+      "matches": 3,
+      "avg_first_innings": 135.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Amini Park": {
+      "matches": 5,
+      "avg_first_innings": 119.6,
+      "chase_win_pct": 0.4,
+      "pitch_type": "slow_low"
+    },
+    "LC de Villiers Oval": {
+      "matches": 1,
+      "avg_first_innings": 119.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "City Oval": {
+      "matches": 2,
+      "avg_first_innings": 133.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Willowmoore Park": {
+      "matches": 2,
+      "avg_first_innings": 148.5,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "United Cricket Club Ground": {
+      "matches": 9,
+      "avg_first_innings": 142.89,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Old Hararians": {
+      "matches": 8,
+      "avg_first_innings": 120.75,
+      "chase_win_pct": 0.375,
+      "pitch_type": "slow_low"
+    },
+    "Takashinga Sports Club": {
+      "matches": 3,
+      "avg_first_innings": 110.33,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Ground 1, Independence Park": {
+      "matches": 6,
+      "avg_first_innings": 76.5,
+      "chase_win_pct": 0.8333,
+      "pitch_type": "balanced"
+    },
+    "Ground 2, Independence Park": {
+      "matches": 4,
+      "avg_first_innings": 84.0,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "Perth Stadium": {
+      "matches": 6,
+      "avg_first_innings": 137.5,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Kyambogo Cricket Oval": {
+      "matches": 6,
+      "avg_first_innings": 115.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Lugogo Cricket Oval": {
+      "matches": 3,
+      "avg_first_innings": 135.33,
+      "chase_win_pct": 0.0,
+      "pitch_type": "slow_low"
+    },
+    "Sydney Parade": {
+      "matches": 2,
+      "avg_first_innings": 172.5,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "King George V Sports Ground": {
+      "matches": 8,
+      "avg_first_innings": 128.62,
+      "chase_win_pct": 0.375,
+      "pitch_type": "slow_low"
+    },
+    "College Field": {
+      "matches": 5,
+      "avg_first_innings": 120.6,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Kingsmead": {
+      "matches": 4,
+      "avg_first_innings": 147.0,
+      "chase_win_pct": 0.25,
+      "pitch_type": "slow_low"
+    },
+    "St George's Park": {
+      "matches": 1,
+      "avg_first_innings": 158.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "spin_friendly"
+    },
+    "Punjab Cricket Association IS Bindra Stadium, Mohali": {
+      "matches": 1,
+      "avg_first_innings": 149.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Rajiv Gandhi International Stadium, Uppal": {
+      "matches": 1,
+      "avg_first_innings": 207.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "Hagley Oval": {
+      "matches": 2,
+      "avg_first_innings": 168.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Basin Reserve": {
+      "matches": 2,
+      "avg_first_innings": 162.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Providence Stadium, Guyana": {
+      "matches": 6,
+      "avg_first_innings": 118.17,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Gahanga International Cricket Stadium. Rwanda": {
+      "matches": 72,
+      "avg_first_innings": 113.42,
+      "chase_win_pct": 0.625,
+      "pitch_type": "balanced"
+    },
+    "La Manga Club Top Ground": {
+      "matches": 8,
+      "avg_first_innings": 106.75,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Indian Association Ground": {
+      "matches": 17,
+      "avg_first_innings": 145.06,
+      "chase_win_pct": 0.5294,
+      "pitch_type": "balanced"
+    },
+    "Sportpark Westvliet": {
+      "matches": 1,
+      "avg_first_innings": 150.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Pallekele International Cricket Stadium": {
+      "matches": 6,
+      "avg_first_innings": 164.5,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Forthill": {
+      "matches": 10,
+      "avg_first_innings": 94.5,
+      "chase_win_pct": 0.3,
+      "pitch_type": "slow_low"
+    },
+    "Lochlands": {
+      "matches": 7,
+      "avg_first_innings": 98.43,
+      "chase_win_pct": 0.7143,
+      "pitch_type": "balanced"
+    },
+    "Zahur Ahmed Chowdhury Stadium": {
+      "matches": 1,
+      "avg_first_innings": 175.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Yeonhui Cricket Ground": {
+      "matches": 5,
+      "avg_first_innings": 101.6,
+      "chase_win_pct": 0.2,
+      "pitch_type": "slow_low"
+    },
+    "White Hill Field, Sandys Parish": {
+      "matches": 8,
+      "avg_first_innings": 130.12,
+      "chase_win_pct": 0.625,
+      "pitch_type": "balanced"
+    },
+    "Bermuda National Stadium": {
+      "matches": 1,
+      "avg_first_innings": 141.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Kensington Oval, Barbados": {
+      "matches": 3,
+      "avg_first_innings": 94.67,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Lalabhai Contractor Stadium": {
+      "matches": 4,
+      "avg_first_innings": 135.75,
+      "chase_win_pct": 0.25,
+      "pitch_type": "slow_low"
+    },
+    "ICC Academy Ground No 2": {
+      "matches": 5,
+      "avg_first_innings": 155.8,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "La Manga Club Bottom Ground": {
+      "matches": 14,
+      "avg_first_innings": 87.14,
+      "chase_win_pct": 0.8571,
+      "pitch_type": "balanced"
+    },
+    "Maharashtra Cricket Association Stadium": {
+      "matches": 1,
+      "avg_first_innings": 201.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "National Cricket Stadium, Grenada": {
+      "matches": 1,
+      "avg_first_innings": 208.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Desert Springs Cricket Ground": {
+      "matches": 2,
+      "avg_first_innings": 159.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Tribhuvan University International Cricket Ground": {
+      "matches": 4,
+      "avg_first_innings": 152.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Pokhara Rangasala": {
+      "matches": 4,
+      "avg_first_innings": 82.25,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)": {
+      "matches": 24,
+      "avg_first_innings": 144.08,
+      "chase_win_pct": 0.4167,
+      "pitch_type": "slow_low"
+    },
+    "Seebarn Cricket Centre, Lower Austria": {
+      "matches": 1,
+      "avg_first_innings": 165.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "balanced"
+    },
+    "Seebarn Cricket Centre": {
+      "matches": 4,
+      "avg_first_innings": 143.0,
+      "chase_win_pct": 0.25,
+      "pitch_type": "slow_low"
+    },
+    "Pierre Werner Cricket Ground": {
+      "matches": 3,
+      "avg_first_innings": 170.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Rawalpindi Cricket Stadium": {
+      "matches": 4,
+      "avg_first_innings": 153.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "University Oval": {
+      "matches": 1,
+      "avg_first_innings": 219.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Sky Stadium": {
+      "matches": 2,
+      "avg_first_innings": 135.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Moara Vlasiei Cricket Ground": {
+      "matches": 3,
+      "avg_first_innings": 112.0,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Boland Park": {
+      "matches": 1,
+      "avg_first_innings": 146.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Trent Bridge, Nottingham": {
+      "matches": 3,
+      "avg_first_innings": 207.33,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "pace_friendly"
+    },
+    "Headingley, Leeds": {
+      "matches": 1,
+      "avg_first_innings": 200.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Old Trafford, Manchester": {
+      "matches": 2,
+      "avg_first_innings": 176.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Narendra Modi Stadium": {
+      "matches": 5,
+      "avg_first_innings": 170.6,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Sophia Gardens, Cardiff": {
+      "matches": 3,
+      "avg_first_innings": 149.0,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "The Rose Bowl, Southampton": {
+      "matches": 3,
+      "avg_first_innings": 189.67,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "The Wanderers Stadium, Johannesburg": {
+      "matches": 3,
+      "avg_first_innings": 182.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "batting_friendly"
+    },
+    "SuperSport Park, Centurion": {
+      "matches": 4,
+      "avg_first_innings": 184.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "Civil Service Cricket Club, Stormont, Belfast": {
+      "matches": 9,
+      "avg_first_innings": 147.89,
+      "chase_win_pct": 0.2222,
+      "pitch_type": "slow_low"
+    },
+    "Coolidge Cricket Ground, Antigua": {
+      "matches": 11,
+      "avg_first_innings": 154.64,
+      "chase_win_pct": 0.3636,
+      "pitch_type": "spin_friendly"
+    },
+    "Kensington Oval, Bridgetown, Barbados": {
+      "matches": 9,
+      "avg_first_innings": 149.11,
+      "chase_win_pct": 0.2222,
+      "pitch_type": "slow_low"
+    },
+    "Wanderers": {
+      "matches": 1,
+      "avg_first_innings": 134.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Wanderers Cricket Ground, Windhoek": {
+      "matches": 2,
+      "avg_first_innings": 161.5,
+      "chase_win_pct": 0.0,
+      "pitch_type": "balanced"
+    },
+    "Tribhuvan University International Cricket Ground, Kirtipur": {
+      "matches": 18,
+      "avg_first_innings": 160.33,
+      "chase_win_pct": 0.3889,
+      "pitch_type": "balanced"
+    },
+    "County Ground, Northampton": {
+      "matches": 1,
+      "avg_first_innings": 177.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "County Ground, Chelmsford": {
+      "matches": 4,
+      "avg_first_innings": 138.0,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "The Cooper Associates County Ground, Taunton": {
+      "matches": 1,
+      "avg_first_innings": 144.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "R Premadasa Stadium, Colombo": {
+      "matches": 8,
+      "avg_first_innings": 126.88,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "National Cricket Stadium, St George's, Grenada": {
+      "matches": 5,
+      "avg_first_innings": 165.6,
+      "chase_win_pct": 0.2,
+      "pitch_type": "balanced"
+    },
+    "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia": {
+      "matches": 5,
+      "avg_first_innings": 174.0,
+      "chase_win_pct": 0.2,
+      "pitch_type": "pace_friendly"
+    },
+    "Manuka Oval, Canberra": {
+      "matches": 2,
+      "avg_first_innings": 149.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Scott Page Field, Vinor": {
+      "matches": 11,
+      "avg_first_innings": 151.55,
+      "chase_win_pct": 0.7273,
+      "pitch_type": "balanced"
+    },
+    "National Sports Academy, Sofia": {
+      "matches": 9,
+      "avg_first_innings": 178.89,
+      "chase_win_pct": 0.8889,
+      "pitch_type": "batting_friendly"
+    },
+    "Sir Vivian Richards Stadium, North Sound, Antigua": {
+      "matches": 15,
+      "avg_first_innings": 116.8,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Marsa Sports Club": {
+      "matches": 29,
+      "avg_first_innings": 160.97,
+      "chase_win_pct": 0.5517,
+      "pitch_type": "balanced"
+    },
+    "Bayer Uerdingen Cricket Ground": {
+      "matches": 16,
+      "avg_first_innings": 119.88,
+      "chase_win_pct": 0.4375,
+      "pitch_type": "slow_low"
+    },
+    "Castle Avenue, Dublin": {
+      "matches": 2,
+      "avg_first_innings": 134.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Bready Cricket Club, Magheramason, Bready": {
+      "matches": 6,
+      "avg_first_innings": 141.5,
+      "chase_win_pct": 0.1667,
+      "pitch_type": "slow_low"
+    },
+    "Takashinga Sports Club, Highfield, Harare": {
+      "matches": 3,
+      "avg_first_innings": 130.67,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Svanholm Park, Brondby": {
+      "matches": 5,
+      "avg_first_innings": 145.8,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Gucherre Cricket Ground": {
+      "matches": 3,
+      "avg_first_innings": 187.67,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "pace_friendly"
+    },
+    "Kerava National Cricket Ground": {
+      "matches": 27,
+      "avg_first_innings": 138.41,
+      "chase_win_pct": 0.5556,
+      "pitch_type": "balanced"
+    },
+    "Grange Cricket Club Ground, Raeburn Place, Edinburgh": {
+      "matches": 7,
+      "avg_first_innings": 170.29,
+      "chase_win_pct": 0.4286,
+      "pitch_type": "pace_friendly"
+    },
+    "Zayed Cricket Stadium, Abu Dhabi": {
+      "matches": 12,
+      "avg_first_innings": 139.42,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "Entebbe Cricket Oval": {
+      "matches": 8,
+      "avg_first_innings": 140.0,
+      "chase_win_pct": 0.25,
+      "pitch_type": "slow_low"
+    },
+    "Desert Springs Cricket Ground, Almeria": {
+      "matches": 29,
+      "avg_first_innings": 121.0,
+      "chase_win_pct": 0.5172,
+      "pitch_type": "balanced"
+    },
+    "Guttsta Wicked Cricket Club": {
+      "matches": 1,
+      "avg_first_innings": 52.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Botswana Cricket Association Oval 2, Gaborone": {
+      "matches": 6,
+      "avg_first_innings": 105.83,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Moara Vlasiei Cricket Ground, Ilfov County": {
+      "matches": 9,
+      "avg_first_innings": 175.22,
+      "chase_win_pct": 0.2222,
+      "pitch_type": "pace_friendly"
+    },
+    "Edgbaston, Birmingham": {
+      "matches": 19,
+      "avg_first_innings": 136.37,
+      "chase_win_pct": 0.4737,
+      "pitch_type": "spin_friendly"
+    },
+    "County Ground, Bristol": {
+      "matches": 4,
+      "avg_first_innings": 187.25,
+      "chase_win_pct": 0.25,
+      "pitch_type": "pace_friendly"
+    },
+    "Sawai Mansingh Stadium, Jaipur": {
+      "matches": 1,
+      "avg_first_innings": 164.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "JSCA International Stadium Complex, Ranchi": {
+      "matches": 2,
+      "avg_first_innings": 164.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Eden Gardens, Kolkata": {
+      "matches": 4,
+      "avg_first_innings": 177.75,
+      "chase_win_pct": 0.25,
+      "pitch_type": "pace_friendly"
+    },
+    "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow": {
+      "matches": 2,
+      "avg_first_innings": 149.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Himachal Pradesh Cricket Association Stadium, Dharamsala": {
+      "matches": 2,
+      "avg_first_innings": 164.5,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Arun Jaitley Stadium, Delhi": {
+      "matches": 1,
+      "avg_first_innings": 211.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "Barabati Stadium, Cuttack": {
+      "matches": 1,
+      "avg_first_innings": 148.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam": {
+      "matches": 1,
+      "avg_first_innings": 179.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Saurashtra Cricket Association Stadium, Rajkot": {
+      "matches": 2,
+      "avg_first_innings": 198.5,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Happy Valley Ground": {
+      "matches": 7,
+      "avg_first_innings": 117.43,
+      "chase_win_pct": 0.8571,
+      "pitch_type": "balanced"
+    },
+    "ICC Academy, Dubai": {
+      "matches": 16,
+      "avg_first_innings": 128.31,
+      "chase_win_pct": 0.3125,
+      "pitch_type": "slow_low"
+    },
+    "Reforma Athletic Club, Naucalpan": {
+      "matches": 3,
+      "avg_first_innings": 55.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Integrated Polytechnic Regional Centre": {
+      "matches": 37,
+      "avg_first_innings": 124.05,
+      "chase_win_pct": 0.4865,
+      "pitch_type": "balanced"
+    },
+    "University of Lagos Cricket Oval": {
+      "matches": 5,
+      "avg_first_innings": 106.2,
+      "chase_win_pct": 0.4,
+      "pitch_type": "slow_low"
+    },
+    "West End Park International Cricket Stadium, Doha": {
+      "matches": 10,
+      "avg_first_innings": 131.1,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "ICC Academy Ground No 2, Dubai": {
+      "matches": 5,
+      "avg_first_innings": 102.8,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "National Stadium, Karachi": {
+      "matches": 7,
+      "avg_first_innings": 189.0,
+      "chase_win_pct": 0.4286,
+      "pitch_type": "pace_friendly"
+    },
+    "Gaddafi Stadium, Lahore": {
+      "matches": 10,
+      "avg_first_innings": 164.2,
+      "chase_win_pct": 0.4,
+      "pitch_type": "balanced"
+    },
+    "John Davies Oval, Queenstown": {
+      "matches": 3,
+      "avg_first_innings": 163.0,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "balanced"
+    },
+    "Central Broward Regional Park Stadium Turf Ground, Lauderhill": {
+      "matches": 4,
+      "avg_first_innings": 179.25,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Kinrara Academy Oval, Kuala Lumpur": {
+      "matches": 22,
+      "avg_first_innings": 109.18,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "GMHBA Stadium, South Geelong, Victoria": {
+      "matches": 6,
+      "avg_first_innings": 142.83,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Bellerive Oval, Hobart": {
+      "matches": 9,
+      "avg_first_innings": 145.44,
+      "chase_win_pct": 0.5556,
+      "pitch_type": "balanced"
+    },
+    "Brisbane Cricket Ground, Woolloongabba, Brisbane": {
+      "matches": 4,
+      "avg_first_innings": 171.5,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "County Ground, New Road, Worcester": {
+      "matches": 1,
+      "avg_first_innings": 148.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "County Ground, Derby": {
+      "matches": 3,
+      "avg_first_innings": 144.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Riverside Ground, Chester-le-Street": {
+      "matches": 2,
+      "avg_first_innings": 135.5,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "United Cricket Club Ground, Windhoek": {
+      "matches": 3,
+      "avg_first_innings": 163.0,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "College Field, St Peter Port": {
+      "matches": 1,
+      "avg_first_innings": 178.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Centre for Cricket Development Ground, Windhoek": {
+      "matches": 10,
+      "avg_first_innings": 96.1,
+      "chase_win_pct": 0.4,
+      "pitch_type": "slow_low"
+    },
+    "Sportpark Westvliet, The Hague": {
+      "matches": 2,
+      "avg_first_innings": 147.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Queens Sports Club, Bulawayo": {
+      "matches": 15,
+      "avg_first_innings": 150.87,
+      "chase_win_pct": 0.2667,
+      "pitch_type": "spin_friendly"
+    },
+    "Southend Club Cricket Stadium, Karachi": {
+      "matches": 3,
+      "avg_first_innings": 105.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Malek Cricket Ground, Ajman": {
+      "matches": 4,
+      "avg_first_innings": 108.0,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Pembroke Cricket Club, Sandymount, Dublin": {
+      "matches": 3,
+      "avg_first_innings": 117.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Windsor Park, Roseau, Dominica": {
+      "matches": 1,
+      "avg_first_innings": 193.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Brian Lara Stadium, Tarouba, Trinidad": {
+      "matches": 1,
+      "avg_first_innings": 190.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Warner Park, Basseterre, St Kitts": {
+      "matches": 2,
+      "avg_first_innings": 151.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Sabina Park, Kingston, Jamaica": {
+      "matches": 3,
+      "avg_first_innings": 181.67,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "pace_friendly"
+    },
+    "Rangiri Dambulla International Stadium": {
+      "matches": 3,
+      "avg_first_innings": 133.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "UKM-YSD Cricket Oval, Bangi": {
+      "matches": 28,
+      "avg_first_innings": 118.54,
+      "chase_win_pct": 0.5357,
+      "pitch_type": "balanced"
+    },
+    "Meersen, Gent": {
+      "matches": 5,
+      "avg_first_innings": 124.0,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Royal Brussels Cricket Club Ground, Waterloo": {
+      "matches": 10,
+      "avg_first_innings": 154.9,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Grainville, St Saviour": {
+      "matches": 1,
+      "avg_first_innings": 136.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "slow_low"
+    },
+    "Tikkurila Cricket Ground": {
+      "matches": 21,
+      "avg_first_innings": 134.62,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Indian Association Ground, Singapore": {
+      "matches": 8,
+      "avg_first_innings": 148.25,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Sportpark Harga, Schiedam": {
+      "matches": 1,
+      "avg_first_innings": 99.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "slow_low"
+    },
+    "Sportpark Westvliet, Voorburg": {
+      "matches": 3,
+      "avg_first_innings": 103.33,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Bulawayo Athletic Club": {
+      "matches": 9,
+      "avg_first_innings": 145.33,
+      "chase_win_pct": 0.7778,
+      "pitch_type": "balanced"
+    },
+    "Bay Oval, Mount Maunganui": {
+      "matches": 1,
+      "avg_first_innings": 191.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Hagley Oval, Christchurch": {
+      "matches": 8,
+      "avg_first_innings": 161.12,
+      "chase_win_pct": 0.625,
+      "pitch_type": "balanced"
+    },
+    "University Oval, Dunedin": {
+      "matches": 2,
+      "avg_first_innings": 144.5,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Lisicji Jarak Cricket Ground": {
+      "matches": 3,
+      "avg_first_innings": 170.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh": {
+      "matches": 1,
+      "avg_first_innings": 208.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "Vidarbha Cricket Association Stadium, Jamtha, Nagpur": {
+      "matches": 1,
+      "avg_first_innings": 90.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Rajiv Gandhi International Stadium, Uppal, Hyderabad": {
+      "matches": 1,
+      "avg_first_innings": 186.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "batting_friendly"
+    },
+    "Greenfield International Stadium, Thiruvananthapuram": {
+      "matches": 1,
+      "avg_first_innings": 106.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Barsapara Cricket Stadium, Guwahati": {
+      "matches": 1,
+      "avg_first_innings": 237.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Holkar Cricket Stadium, Indore": {
+      "matches": 1,
+      "avg_first_innings": 227.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Gymkhana Club Ground, Nairobi": {
+      "matches": 10,
+      "avg_first_innings": 124.9,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Sheikh Zayed Stadium, Abu Dhabi": {
+      "matches": 9,
+      "avg_first_innings": 116.0,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "Tolerance Oval, Abu Dhabi": {
+      "matches": 10,
+      "avg_first_innings": 126.9,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Willowmoore Park, Benoni": {
+      "matches": 12,
+      "avg_first_innings": 140.08,
+      "chase_win_pct": 0.5833,
+      "pitch_type": "balanced"
+    },
+    "Independence Park, Port Vila": {
+      "matches": 10,
+      "avg_first_innings": 143.1,
+      "chase_win_pct": 0.7,
+      "pitch_type": "balanced"
+    },
+    "Sano International Cricket Ground": {
+      "matches": 7,
+      "avg_first_innings": 127.14,
+      "chase_win_pct": 0.5714,
+      "pitch_type": "balanced"
+    },
+    "Sylhet International Cricket Stadium, Academy Ground": {
+      "matches": 9,
+      "avg_first_innings": 119.0,
+      "chase_win_pct": 0.4444,
+      "pitch_type": "slow_low"
+    },
+    "Kennington Oval, London": {
+      "matches": 1,
+      "avg_first_innings": 186.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Lord's, London": {
+      "matches": 1,
+      "avg_first_innings": 155.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Kaizuka Cricket Ground": {
+      "matches": 3,
+      "avg_first_innings": 107.67,
+      "chase_win_pct": 0.6667,
+      "pitch_type": "balanced"
+    },
+    "Newlands, Cape Town": {
+      "matches": 12,
+      "avg_first_innings": 152.58,
+      "chase_win_pct": 0.4167,
+      "pitch_type": "spin_friendly"
+    },
+    "Boland Park, Paarl": {
+      "matches": 6,
+      "avg_first_innings": 137.17,
+      "chase_win_pct": 0.3333,
+      "pitch_type": "slow_low"
+    },
+    "St George's Park, Gqeberha": {
+      "matches": 5,
+      "avg_first_innings": 129.8,
+      "chase_win_pct": 0.6,
+      "pitch_type": "balanced"
+    },
+    "Royal Chiangmai Golf Club": {
+      "matches": 4,
+      "avg_first_innings": 100.25,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "Buffalo Park, East London": {
+      "matches": 6,
+      "avg_first_innings": 125.83,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "North Sydney Oval, Sydney": {
+      "matches": 1,
+      "avg_first_innings": 118.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Dr DY Patil Sports Academy, Mumbai": {
+      "matches": 1,
+      "avg_first_innings": 172.0,
+      "chase_win_pct": 1.0,
+      "pitch_type": "balanced"
+    },
+    "Brabourne Stadium, Mumbai": {
+      "matches": 3,
+      "avg_first_innings": 185.33,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Wankhede Stadium, Mumbai": {
+      "matches": 1,
+      "avg_first_innings": 162.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "balanced"
+    },
+    "Maharashtra Cricket Association Stadium, Pune": {
+      "matches": 1,
+      "avg_first_innings": 206.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Narendra Modi Stadium, Ahmedabad": {
+      "matches": 1,
+      "avg_first_innings": 234.0,
+      "chase_win_pct": 0.0,
+      "pitch_type": "pace_friendly"
+    },
+    "Gahanga International Cricket Stadium, Rwanda": {
+      "matches": 13,
+      "avg_first_innings": 137.08,
+      "chase_win_pct": 0.2308,
+      "pitch_type": "slow_low"
+    },
+    "Zahur Ahmed Chowdhury Stadium, Chattogram": {
+      "matches": 4,
+      "avg_first_innings": 172.25,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Morodok Techo National Stadium": {
+      "matches": 4,
+      "avg_first_innings": 51.0,
+      "chase_win_pct": 0.75,
+      "pitch_type": "balanced"
+    },
+    "St Albans Club, Buenos Aires": {
+      "matches": 4,
+      "avg_first_innings": 123.0,
+      "chase_win_pct": 0.25,
+      "pitch_type": "slow_low"
+    },
+    "Belgrano Athletic Club Ground, Buenos Aires": {
+      "matches": 4,
+      "avg_first_innings": 191.75,
+      "chase_win_pct": 0.25,
+      "pitch_type": "pace_friendly"
+    },
+    "Hurlingham Club Ground, Buenos Aires": {
+      "matches": 4,
+      "avg_first_innings": 112.75,
+      "chase_win_pct": 0.5,
+      "pitch_type": "balanced"
+    },
+    "Mission Road Ground, Mong Kok, Hong Kong": {
+      "matches": 4,
+      "avg_first_innings": 168.0,
+      "chase_win_pct": 0.25,
+      "pitch_type": "balanced"
+    }
+  },
+  "source": "cricsheet:t20i",
+  "archive_path": "data\\raw\\t20i_json.zip"
+}

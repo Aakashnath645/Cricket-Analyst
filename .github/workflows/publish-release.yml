@@ -1,0 +1,75 @@
+name: publish-release
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  publish:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    env:
+      CRIC_REQUIRE_SIGNATURE: "0"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: desktop/package-lock.json
+
+      - name: Install Python dependencies
+        shell: pwsh
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Node dependencies
+        shell: pwsh
+        run: |
+          Set-Location desktop
+          npm ci
+
+      - name: Prepare signing certificate (optional)
+        if: ${{ secrets.CRIC_SIGN_CERT_PFX_BASE64 != '' }}
+        shell: pwsh
+        run: |
+          $certPath = Join-Path $env:RUNNER_TEMP "cricanalyst-signing-cert.pfx"
+          [System.IO.File]::WriteAllBytes($certPath, [System.Convert]::FromBase64String("${{ secrets.CRIC_SIGN_CERT_PFX_BASE64 }}"))
+          "CRIC_SIGN_CERT_PFX=$certPath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "CRIC_SIGN_CERT_PASSWORD=${{ secrets.CRIC_SIGN_CERT_PASSWORD }}" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "CRIC_REQUIRE_SIGNATURE=1" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+
+      - name: Build installer and run checks
+        shell: pwsh
+        run: |
+          .\build_electron_exe.ps1
+
+      - name: Resolve latest release directory
+        id: release_dir
+        shell: pwsh
+        run: |
+          $latest = Get-ChildItem .\desktop\release -Directory | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+          if (-not $latest) { throw "No release output directory found." }
+          "path=$($latest.FullName)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+
+      - name: Publish GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ${{ steps.release_dir.outputs.path }}/CricAnalyst-Setup-*.exe
+            ${{ steps.release_dir.outputs.path }}/CricAnalyst-Setup-*.exe.blockmap
+            ${{ steps.release_dir.outputs.path }}/SHA256SUMS.txt
+          generate_release_notes: true
+          draft: false
+          prerelease: false

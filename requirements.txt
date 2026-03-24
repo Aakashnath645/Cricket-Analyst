@@ -1,0 +1,11 @@
+numpy==2.2.4
+pandas==2.2.3
+scikit-learn==1.6.1
+joblib==1.4.2
+PySide6==6.8.2
+requests==2.32.3
+pytest==8.3.5
+pyinstaller==6.13.0
+fastapi==0.115.12
+uvicorn==0.34.0
+httpx==0.28.1

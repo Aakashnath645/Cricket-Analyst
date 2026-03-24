@@ -1,0 +1,72 @@
+name: release-security
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    env:
+      CRIC_REQUIRE_SIGNATURE: "0"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: desktop/package-lock.json
+
+      - name: Install Python dependencies
+        shell: pwsh
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pip-audit
+
+      - name: Python tests
+        shell: pwsh
+        run: |
+          python -m pytest tests -q
+
+      - name: Python dependency CVE scan
+        shell: pwsh
+        run: |
+          pip-audit --strict
+
+      - name: Install Node dependencies
+        shell: pwsh
+        run: |
+          Set-Location desktop
+          npm ci
+
+      - name: Node production audit
+        shell: pwsh
+        run: |
+          Set-Location desktop
+          npm audit --omit=dev
+
+      - name: Build and verify release
+        shell: pwsh
+        run: |
+          .\build_electron_exe.ps1
+
+      - name: Upload installer and checksums
+        uses: actions/upload-artifact@v4
+        with:
+          name: cricanalyst-release
+          path: |
+            desktop/release/*/CricAnalyst-Setup-*.exe
+            desktop/release/*/CricAnalyst-Setup-*.exe.blockmap
+            desktop/release/*/SHA256SUMS.txt

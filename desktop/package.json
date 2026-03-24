@@ -1,0 +1,75 @@
+{
+  "name": "cricanalyst-desktop",
+  "version": "0.1.0",
+  "description": "React + Electron desktop shell for CricAnalyst",
+  "author": "CricAnalyst",
+  "private": true,
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "concurrently -k \"npm:dev:renderer\" \"npm:dev:electron\"",
+    "dev:renderer": "vite",
+    "dev:electron": "wait-on tcp:5173 && electron .",
+    "build:renderer": "vite build",
+    "build": "npm run build:renderer && electron-builder",
+    "pack:dir": "npm run build:renderer && electron-builder --dir"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^3.8.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.4.1",
+    "concurrently": "9.2.1",
+    "electron": "35.1.5",
+    "electron-builder": "26.0.12",
+    "vite": "6.3.2",
+    "wait-on": "8.0.3"
+  },
+  "build": {
+    "appId": "com.cricanalyst.desktop",
+    "productName": "CricAnalyst",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../dist/CricAnalystApi.exe",
+        "to": "backend/CricAnalystApi.exe"
+      },
+      {
+        "from": "../models",
+        "to": "models"
+      },
+      {
+        "from": "../data",
+        "to": "data"
+      },
+      {
+        "from": "build/icon.png",
+        "to": "icon.png"
+      }
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "build/icon.ico",
+      "artifactName": "CricAnalyst-Setup-${version}.${ext}",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico",
+      "installerHeaderIcon": "build/icon.ico",
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}
