@@ -96,7 +96,7 @@ It runs:
 
 ## 7) Publish installer via GitHub Releases
 
-This repository includes `.github/workflows/publish-release.yml`.
+This repository includes `.github/workflows/release-publish.yml`.
 When you push a version tag (for example `v0.1.1`), GitHub Actions will:
 
 - Build the installer on Windows
